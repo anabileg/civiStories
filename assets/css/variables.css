@@ -1,0 +1,66 @@
+/* ========================================
+   CSS VARIABLES - Global Design Tokens
+   ======================================== */
+
+:root {
+  /* Brand Colors */
+  --gold: #d4af37;
+  --white: #ffffff;
+  --black: #000000;
+  --red-news: #b30000;
+  --red-num: #ff0000;
+
+  /* Social Media Colors */
+  --yt: #FF0000;
+  --fb: #1877F2;
+  --tw: #ffffff;
+  --ig: #E4405F;
+  --tk: #ffffff;
+  --pr: #BD081C;
+  --in: #0077B5;
+  --wa-color: #25D366;
+
+  /* Background Colors */
+  --cream-bg: #fdf9f3;
+  --dark-bg: rgba(0, 0, 0, 0.95);
+  --card-bg: rgba(0, 0, 0, 0.6);
+  --glass-bg: rgba(0, 0, 0, 0.3);
+
+  /* Spacing */
+  --spacing-xs: 5px;
+  --spacing-sm: 10px;
+  --spacing-md: 20px;
+  --spacing-lg: 40px;
+  --spacing-xl: 60px;
+
+  /* Border Radius */
+  --radius-sm: 8px;
+  --radius-md: 15px;
+  --radius-lg: 20px;
+  --radius-xl: 25px;
+  --radius-xxl: 40px;
+
+  /* Transitions */
+  --transition-fast: 0.2s;
+  --transition-normal: 0.3s;
+  --transition-slow: 0.4s;
+
+  /* Shadows */
+  --shadow-sm: 0 2px 5px rgba(0, 0, 0, 0.1);
+  --shadow-md: 0 5px 15px rgba(0, 0, 0, 0.2);
+  --shadow-lg: 0 10px 30px rgba(0, 0, 0, 0.3);
+  --shadow-gold: 0 10px 30px rgba(212, 175, 55, 0.3);
+
+  /* Z-index Layers */
+  --z-background: -1;
+  --z-content: 1;
+  --z-dropdown: 100;
+  --z-ticker: 1000;
+  --z-navbar: 10001;
+  --z-modal: 50000;
+  --z-lightbox: 20000;
+
+  /* Font Families */
+  --font-primary: 'Tajawal', 'Cairo', sans-serif;
+  --font-secondary: 'Cairo', 'Tajawal', sans-serif;
+}

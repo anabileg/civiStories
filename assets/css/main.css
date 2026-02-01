@@ -1,0 +1,194 @@
+/* ========================================
+   MAIN CSS - Imports all modular styles
+   ======================================== */
+
+@import url('variables.css');
+@import url('reset.css');
+@import url('layout.css');
+@import url('navbar.css');
+@import url('components.css');
+@import url('modals.css');
+@import url('references.css');
+
+/* ========================================
+   ADDITIONAL CUSTOM STYLES
+   ======================================== */
+
+/* Book Section */
+.hero-container {
+  display: flex;
+  gap: 40px;
+  width: 100%;
+  align-items: stretch;
+  justify-content: center;
+}
+
+.book-static {
+  flex: 0 0 320px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 450px;
+}
+
+.book-wrapper {
+  height: calc(100% - 70px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.book-wrapper img {
+  max-height: 100%;
+  width: auto;
+  border-radius: var(--radius-md);
+  border: 2px solid var(--gold);
+  box-shadow: var(--shadow-gold);
+  animation: bookFloat 3s ease-in-out infinite;
+}
+
+@keyframes bookFloat {
+  0%, 100% {
+    transform: translateY(0) rotate(0);
+  }
+  50% {
+    transform: translateY(-15px) rotate(2deg);
+  }
+}
+
+/* Video Container */
+.video-container-box {
+  flex: 1;
+  max-width: 800px;
+  height: 450px;
+  border: 2px solid var(--gold);
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  box-shadow: var(--shadow-gold);
+}
+
+.video-container-box iframe {
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+
+/* Media Carousel */
+.carousel-wide {
+  width: 90%;
+  max-width: 1200px;
+  margin: 40px auto;
+  height: 350px;
+  border: 2px solid var(--gold);
+  border-radius: var(--radius-xl);
+  position: relative;
+  overflow: hidden;
+  background: var(--black);
+}
+
+.track {
+  display: flex;
+  width: max-content;
+}
+
+.track img {
+  height: 350px;
+  width: 300px;
+  object-fit: cover;
+  cursor: zoom-in;
+  border-right: 2px solid var(--gold);
+  filter: grayscale(100%);
+  transition: filter var(--transition-normal);
+  flex-shrink: 0;
+}
+
+.track img:hover {
+  filter: grayscale(0%);
+}
+
+.animate-media {
+  animation: mediaScroll 250s linear infinite;
+}
+
+@keyframes mediaScroll {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+[dir="rtl"] .animate-media {
+  animation: mediaScrollRtl 250s linear infinite;
+}
+
+@keyframes mediaScrollRtl {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(50%);
+  }
+}
+
+/* Main Alert Title */
+.main-alert-title {
+  text-align: center;
+  margin-bottom: 40px;
+  font-size: 2.2rem;
+  line-height: 1.4;
+  color: var(--white);
+  max-width: 100%;
+}
+
+/* Vision Description */
+#vis-desc {
+  font-size: 1.4rem;
+  font-weight: bold;
+  line-height: 1.6;
+}
+
+.card p {
+  font-weight: bold !important;
+  font-size: 1.15rem;
+}
+
+/* Responsive Design */
+@media (max-width: 968px) {
+  .hero-container {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .book-static {
+    flex: 0 0 auto;
+    height: auto;
+    width: 100%;
+    max-width: 320px;
+  }
+
+  .video-container-box {
+    width: 100%;
+    max-width: 100%;
+  }
+}
+
+@media (max-width: 768px) {
+  .main-alert-title {
+    font-size: 1.6rem;
+  }
+
+  .carousel-wide {
+    height: 250px;
+  }
+
+  .track img {
+    height: 250px;
+    width: 200px;
+  }
+
+  #vis-desc {
+    font-size: 1.2rem;
+  }
+}

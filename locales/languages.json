@@ -1,0 +1,7 @@
+{
+  "languages": [
+    { "code": "ar", "name": "العربية", "flag": "https://flagcdn.com/w80/eg.png", "dir": "rtl" },
+    { "code": "en", "name": "English", "flag": "https://flagcdn.com/w80/gb.png", "dir": "ltr" }
+  ],
+  "defaultLang": "ar"
+}

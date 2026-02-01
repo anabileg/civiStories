@@ -1,0 +1,91 @@
+/* ========================================
+   LAYOUT & CONTAINERS
+   ======================================== */
+
+.site-bg {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url('../images/background.jpg');
+  background-position: center;
+  background-size: cover;
+  z-index: var(--z-background);
+  animation: kenBurns 35s ease-in-out infinite alternate;
+}
+
+@keyframes kenBurns {
+  0% {
+    transform: scale(1);
+    filter: brightness(0.35);
+  }
+  100% {
+    transform: scale(1.18);
+    filter: brightness(0.55);
+  }
+}
+
+.container {
+  width: 95%;
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+.section {
+  padding: var(--spacing-lg) 5%;
+}
+
+.hero {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 160px 5% 60px;
+}
+
+.section-main-title {
+  text-align: center;
+  color: var(--gold);
+  font-size: 2.5rem;
+  margin-bottom: 25px;
+  font-weight: bold;
+}
+
+/* Grid Layouts */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 30px;
+}
+
+.awareness-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  margin-top: 30px;
+}
+
+/* RTL/LTR Specific Adjustments */
+[dir="rtl"] {
+  text-align: right;
+}
+
+[dir="ltr"] {
+  text-align: left;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .awareness-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .section-main-title {
+    font-size: 1.8rem;
+  }
+
+  .hero {
+    padding: 140px 5% 40px;
+  }
+}
