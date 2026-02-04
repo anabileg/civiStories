@@ -1,7 +1,7 @@
 {
   "languages": [
-    { "code": "ar", "name": "العربية", "flag": "https://flagcdn.com/w80/ar.png", "dir": "rtl" },
-    { "code": "en", "name": "English", "flag": "https://flagcdn.com/w80/en.png", "dir": "ltr" },
+    { "code": "ar", "name": "العربية", "flag": "https://flagcdn.com/w80/eg.png", "dir": "rtl" },
+    { "code": "en", "name": "English", "flag": "https://flagcdn.com/w80/gb.png", "dir": "ltr" },
     { "code": "fr", "name": "Français", "flag": "https://flagcdn.com/w80/fr.png", "dir": "ltr" },
     { "code": "es", "name": "Español", "flag": "https://flagcdn.com/w80/es.png", "dir": "ltr" },
     { "code": "de", "name": "Deutsch", "flag": "https://flagcdn.com/w80/de.png", "dir": "ltr" },
