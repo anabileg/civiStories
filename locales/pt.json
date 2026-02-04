@@ -1,0 +1,338 @@
+{
+  "meta": {
+    "lang": "pt",
+    "dir": "ltr",
+    "name": "Português",
+    "flag": "https://flagcdn.com/w80/br.png"
+  },
+  "nav": {
+    "home": "Início",
+    "goals": "Nossos Objetivos",
+    "cry": "Nosso Grito",
+    "messages": "Nossas Mensagens",
+    "national": "Consciência Nacional",
+    "media": "Galeria de Imagens",
+    "statistics": "Estatísticas",
+    "losses": "Perdas",
+    "programs": "Programas de Conscientização",
+    "humanVision": "Visão Humana",
+    "references": "Nossas Referências Humanas",
+    "contact": "Contato",
+    "buy": "Adquira o Livro"
+  },
+  "hero": {
+    "title": "CiviStories | Tsunami da Ilusão Digital",
+    "tsunami": "Tsunami",
+    "subtitle": "A Ilusão Digital: Do Berço da Civilização Egípcia ao Mundo... Um Grito para Salvar a Humanidade",
+    "mainAlert": "A Enxurrada Digital Ilusória: Como Proteger Nossas Vidas do Vício Digital"
+  },
+  "about": {
+    "title": "Nossos Objetivos Estratégicos",
+    "description": "Através da iniciativa 'Histórias das Civilizações', buscamos proteger o tecido social egípcio dos riscos da fragmentação eletrônica, capacitando as famílias e restaurando o equilíbrio psicológico e social. Começamos no Egito, onde a ilusão digital ameaça a estabilidade familiar e comunitária, e aspiramos lançar um grito global para proteger a humanidade dos perigos do vício digital — capacitando famílias, restaurando o equilíbrio psicológico e construindo um espaço digital humanizado."
+  },
+  "messages": {
+    "title": "Nosso Grito",
+    "content": "Do coração da civilização egípcia, lançamos nossas mensagens ao mundo:\n• A tecnologia é uma ferramenta, não um substituto da humanidade.\n• A família é a primeira fortaleza contra o colapso digital.\n• A consciência digital é um direito de cada indivíduo e um dever de toda sociedade.\n• Não há futuro seguro sem equilíbrio entre o progresso digital e os valores humanos."
+  },
+  "media": {
+    "guideline": "Clique na imagem para receber nossa mensagem"
+  },
+  "institutions": {
+    "title": "O assunto interessa a todos",
+    "azhar": {
+      "name": "Al-Azhar",
+      "description": "Monitoramento e tratamento de casos de desintegração familiar resultantes do vício digital através de comitês especializados de jurisprudência.",
+      "source": "Fonte: Estatísticas do Centro de Jurisprudência Eletrônica de Al-Azhar"
+    },
+    "church": {
+      "name": "Igreja Copta Egípcia",
+      "description": "Trabalho pela estabilidade familiar e combate ao isolamento digital dentro do lar através de programas de aconselhamento.",
+      "source": "Fonte: Relatórios de Aconselhamento Familiar da Igreja"
+    },
+    "awqaf": {
+      "name": "Ministério de Assuntos Religiosos",
+      "description": "Iniciativa 'Moradia e Afeto' para educar casais sobre os riscos da tecnologia para sua estabilidade psicológica.",
+      "source": "Fonte: Ministério de Assuntos Religiosos Egípcio"
+    }
+  },
+  "ticker": {
+    "items": [
+      "311 mil divórcios anuais no Egito",
+      "104 milhões de celulares no Egito",
+      "5,7 horas diárias diante de telas para crianças",
+      "15 bilhões de libras egípcias em perdas de produtividade anuais",
+      "4,5 bilhões de libras egípcias em custos de tratamento psicológico",
+      "2,1 bilhões de libras egípcias em perdas por golpes eletrônicos"
+    ]
+  },
+  "stats": {
+    "title": "Estatísticas Impactantes",
+    "divorce": {
+      "label": "divórcios anuais",
+      "source": "Central Agency for Public Mobilization and Statistics 2023"
+    },
+    "phones": {
+      "label": "celulares no Egito",
+      "source": "National Telecom Regulatory Authority 2024"
+    },
+    "screenTime": {
+      "label": "horas de tela diárias para crianças",
+      "source": "Organização Mundial da Saúde 2024"
+    }
+  },
+  "losses": {
+    "title": "As Perdas Devastadoras",
+    "productivity": {
+      "label": "bilhões de libras egípcias em perdas de produtividade",
+      "source": "Ministério do Planejamento e Desenvolvimento Econômico"
+    },
+    "mentalHealth": {
+      "label": "bilhões em custos de tratamento psicológico",
+      "source": "Ministério da Saúde e População"
+    },
+    "fraud": {
+      "label": "bilhões em perdas por golpes eletrônicos",
+      "source": "Administração Geral de Combate a Crimes Cibernéticos"
+    }
+  },
+  "programs": {
+    "title": "Programas de Conscientização Comunitária",
+    "instruction": "Escolha o programa adequado para você",
+    "child": "Infância Digital",
+    "teens": "Mundo dos Adolescentes",
+    "youth": "Produtividade e Juventude",
+    "marriage": "Casamento Feliz",
+    "seniors": "Terceira Idade",
+    "security": "Segurança e Privacidade",
+    "data": {
+      "child": {
+        "title": "Infância Digital",
+        "questions": [
+          "Qual a idade adequada, técnica e psicologicamente, para permitir que a criança use telas?",
+          "Como distinguir entre o uso normal do celular e o início do isolamento digital?",
+          "Como gerenciar o término do tempo de tela com calma e sem birras?",
+          "Existem aplicativos específicos que representam risco direto ao comportamento das crianças?",
+          "Quais os riscos de dar o celular à criança durante as refeições?",
+          "Como proteger meu filho de conteúdo inadequado que aparece subitamente?",
+          "O celular afeta o desenvolvimento da fala e linguagem nas crianças?",
+          "Como tratar o vício do meu filho em jogos de celular?",
+          "Qual o tempo ideal para desligar as telas antes de dormir?",
+          "O uso de tablets prejudica a visão das crianças?",
+          "Como transformar a tecnologia em ferramenta educacional para meu filho?",
+          "O que fazer se meu filho descobrir conteúdo violento por acaso?",
+          "Os dispositivos educacionais para crianças são totalmente seguros?",
+          "Como construir confiança entre mim e meu filho quanto ao uso do celular?",
+          "Quais os sinais de fadiga psicológica causada pelas telas nas crianças?",
+          "Como aplicar o 'jejum digital' em minha casa?"
+        ],
+        "answers": [
+          "* É totalmente proibido o uso de telas para crianças menores de 18–24 meses.\n* A única exceção nessa idade são chamadas de vídeo para contato com familiares.\n* Dos 2 aos 5 anos, o máximo é uma hora diária de conteúdo educativo.\n* Os pais devem assistir junto com a criança para garantir sua compreensão e aplicação na realidade.",
+          "* O uso normal é uma forma de entretenimento que não afeta a interação social real.\n* O isolamento começa quando surgem sintomas de abstinência como irritabilidade extrema ao tirar o dispositivo.\n* Perda de interesse em hobbies tradicionais e brincadeiras com colegas é sinal de alerta.\n* Descuido com higiene pessoal ou distúrbios nos horários de alimentação e sono por causa das telas.",
+          "* Usar avisos graduais 10 e 5 minutos antes do término.\n* Dar à criança uma escolha (quer desligar agora ou depois deste nível?).\n* Associar o fim do tempo de tela a outra atividade prazerosa (brincar com blocos ou sair).\n* Os pais também devem encerrar seu tempo de tela para serem exemplo para a criança.",
+          "* Aplicativos de vídeos curtos (como TikTok) por causa da velocidade das cenas que prejudica a concentração.\n* Jogos com chat aberto com estranhos (como algumas salas do Roblox).\n* Aplicativos que incentivam compras internas repetidas e desperdício de dinheiro.\n* Conteúdo não monitorado que pode conter anúncios inadequados para a idade.",
+          "* Impede que a criança sinta saciedade natural, levando ao risco de obesidade.\n* Prejudica as habilidades de degustação e comunicação familiar efetiva durante as refeições.\n* Faz a criança associar comida apenas ao entretenimento visual, perdendo o prazer real.\n* Pode causar problemas digestivos por distração durante a mastigação.",
+          "* Ativar o YouTube Kids e a pesquisa segura em todos os navegadores.\n* Usar aplicativos avançados de controle parental como Google Family Link.\n* Manter o uso do celular sempre em área aberta da casa, nunca em quartos fechados.\n* Ensinar a criança a desligar imediatamente a tela e avisá-lo se vir algo estranho.",
+          "* Sim, a interação com a tela é unilateral e não ajuda no desenvolvimento linguístico.\n* Crianças precisam de interação humana viva para desenvolver articulação e capacidade de diálogo.\n* Tempo excessivo em telas reduz o número de palavras adquiridas pela criança.\n* O excesso digital pode levar a atraso social e dificuldade em entender linguagem corporal.",
+          "* Não retire o dispositivo subitamente; crie um cronograma gradual para reduzir as horas.\n* Ofereça alternativas atraentes e envolventes (desenho, esportes, livros físicos).\n* Recompense a adesão ao tempo com atividades externas prazerosas ou passeios curtos.\n* Participe diariamente de atividades físicas com seu filho para gastar energia longe das telas.",
+          "* Desligar todas as telas pelo menos uma hora antes de dormir.\n* A luz azul inibe a produção de melatonina, hormônio responsável pelo sono profundo.\n* Substitua a tela por leitura de livro físico ou conversa tranquila com a criança.\n* Certifique-se de carregar os dispositivos fora dos quartos para evitar tentação noturna.",
+          "* Causa olho seco e fadiga, contribuindo para aumento de miopia.\n* Siga a regra 20-20-20: a cada 20 minutos, olhe para algo a 6 metros de distância por 20 segundos.\n* Garanta iluminação adequada no ambiente ao usar qualquer dispositivo.\n* Mantenha distância segura entre os olhos da criança e a tela do tablet.",
+          "* Escolha aplicativos que desenvolvam pensamento lógico e programação básica.\n* Participe com seu filho na resolução de quebra-cabeças técnicos em vez de assistir passivamente.\n* Defina objetivos educacionais claros antes de permitir qualquer novo aplicativo.\n* Incentive a criança a usar a câmera para fotografar a natureza ou projetos artísticos.",
+          "* Mantenha total calma; não repreenda a criança nem a faça sentir culpa.\n* Explique que aquele conteúdo não é real e é prejudicial à nossa saúde mental.\n* Discuta seus sentimentos sobre a cena e dê segurança para que fale de seus medos.\n* Certifique-se de corrigir imediatamente a falha técnica que permitiu aquele conteúdo.",
+          "* Sim, se não estiverem conectados à internet aberta ou a lojas de aplicativos não monitoradas.\n* Sempre verifique a qualidade do conteúdo e a ausência de mensagens ocultas ou anúncios.\n* Analise as avaliações do aplicativo antes de baixá-lo e leia sua política de privacidade.\n* Defina tempo específico mesmo para dispositivos educacionais para evitar fadiga visual e mental.",
+          "* Seja um amigo digital; jogue com ele às vezes e entenda seus interesses.\n* Ensine-o a contar imediatamente se vir algo estranho ou assustador, sem medo.\n* Explique por que estabelecemos limites de tempo em vez de impor ordens sem diálogo.\n* Faça as regras valerem para todos em casa para ser um exemplo genuíno.",
+          "* Irritabilidade rápida e mudanças bruscas de humor ao tentar tirar o dispositivo.\n* Falta de concentração em tarefas diárias ou desinteresse nos estudos e brincadeiras.\n* Distúrbios notáveis no sono ou pesadelos relacionados a conteúdo digital.\n* Agressividade repentina no trato com irmãos ou colegas na vida real.",
+          "* Defina um dia por semana totalmente livre de dispositivos em casa.\n* Reserve horários específicos diários (como nas refeições) para proibir o uso de celulares.\n* Substitua o tempo digital por jogos em grupo, conversas familiares ou leitura.\n* Celebre o sucesso da família em manter o jejum digital para fortalecer os laços."
+        ]
+      },
+      "teens": {
+        "title": "Mundo dos Adolescentes",
+        "questions": [
+          "Como lidar com o desejo do adolescente por privacidade total e sua recusa à supervisão do celular?",
+          "Quais os sinais de que o adolescente caiu na armadilha da 'chantagem digital' e como agir com calma?",
+          "Como proteger meu filho/filha da 'obsessão pela perfeição' e comparação constante com influenciadores das redes?",
+          "Qual a atitude correta se descobrir que o adolescente segue grupos ou páginas que propagam ideias extremistas?",
+          "Como ensinar o adolescente a gerir sua 'reputação digital' e entender que o que publica hoje o perseguirá?",
+          "Como enfrentar o vício em 'video games' e seu impacto no desempenho escolar?",
+          "Quais os riscos dos aplicativos de chat anônimo para adolescentes?",
+          "Como convencer o adolescente a estabelecer limites de tempo no celular sem entrar em conflito?",
+          "Como lidar com o 'bullying digital' seja meu filho vítima ou participante?",
+          "Qual o papel dos pais na conscientização sobre os perigos dos 'desafios do TikTok'?",
+          "Como o adolescente pode usar redes sociais para construir um 'perfil' que apoie sua admissão universitária?",
+          "Quais as melhores formas de treinar o adolescente na habilidade de usar 'inteligência artificial' como ferramenta de aprendizado?",
+          "Como transformar o interesse do adolescente por jogos eletrônicos em paixão por programação ou design?",
+          "Como desenvolver a 'liderança digital' para que o adolescente seja influência positiva?",
+          "Quais os passos práticos para capacitar o adolescente a gerir seu orçamento através de apps de pagamento?"
+        ],
+        "answers": [
+          "* A privacidade nesta idade faz parte da construção da autonomia pessoal.\n* Em vez de monitoramento direto (espionagem), transforme-se em supervisão consciente.\n* Combine com ele regras gerais (como não usar celular nos quartos).\n* Explique que seu papel é proteger, não restringir, e construa uma ponte de confiança.",
+          "* Sinais incluem: isolamento repentino, tensão extrema ao receber mensagens.\n* Fechar rapidamente o celular quando você se aproxima, deterioração do humor ou desempenho escolar.\n* A atitude calma requer: acolher o adolescente e tranquilizá-lo de que não está sozinho.\n* Coletar evidências (capturas de tela das mensagens), depois notificar as autoridades competentes imediatamente.",
+          "* Desenvolva consciência crítica; ensine-o que o que aparece são apenas momentos selecionados.\n* Mostre que há filtros e iluminação por trás das cenas para embelezar a realidade.\n* Incentive-o a seguir personalidades inspiradoras em áreas reais (ciência, esportes).\n* Foque em fortalecer sua autoconfiança e realizações concretas no mundo real.",
+          "* Evite choque e ataques violentos que podem levá-lo a se apegar a essas ideias como forma de rebeldia.\n* Inicie um diálogo calmo: o que te atraiu neste tipo de conteúdo?.\n* Apresente perspectivas alternativas e lógicas, discutindo claramente as consequências.\n* Consulte um especialista educacional para ajudar a desconstruir essas ideias profissionalmente.",
+          "* Diga-lhe a regra de ouro: não publique nada que não gostaria que seu futuro empregador visse.\n* Explique que empresas e universidades hoje pesquisam o histórico digital dos candidatos.\n* Ensine que sua pegada digital é seu verdadeiro currículo, que nunca se apaga.\n* Incentive-o a publicar conteúdo que reflita suas habilidades e positividade perante o mundo.",
+          "* Não proíba totalmente; torne os jogos uma recompensa condicionada após concluir tarefas.\n* Defina horários específicos e reduza gradualmente, especialmente nos dias de aula.\n* Incentive atividades físicas que compensem o tempo sentado diante da tela.\n* Preste atenção ao tipo de jogo para garantir que desenvolva pensamento lógico, não violência.",
+          "* Seu perigo está em ser ambiente fértil para bullying cruel, assédio e aliciamento.\n* A ausência de supervisão aumenta a probabilidade de exposição a danos psicológicos graves por desconhecidos.\n* Alerte o adolescente que esses apps podem coletar seus dados para chantagem.\n* Incentive o uso de plataformas conhecidas com regras rigorosas de segurança e privacidade.",
+          "* Através do 'contrato digital'; sente-se com ele e combinem juntos o tempo diário de uso.\n* Quando o adolescente participa da criação das regras, compromete-se mais seriamente em cumpri-las.\n* Discuta os riscos à saúde e psicológicos como fatos científicos, não como ordens.\n* Seja exemplo ao deixar seu próprio celular durante momentos familiares.",
+          "* Se for vítima: ensine a não responder, bloquear imediatamente o agressor e documentar o ocorrido.\n* Se for participante: assuma posição firme sobre as consequências éticas e legais.\n* Desenvolva nele a empatia para entender o dano que pode causar aos outros.\n* Ofereça total apoio psicológico para superar os efeitos da experiência e reconstruir sua autoconfiança.",
+          "* O papel é a análise lógica; discuta com ele o desafio e pergunte sobre seus riscos.\n* Incentive o pensamento independente em vez da mentalidade de rebanho e cópia cega.\n* Mostre que acompanhar tendências não vale o risco à sua integridade física.\n* Peça que proponha desafios positivos e úteis nos quais possa participar com segurança.",
+          "* Compartilhando realizações: projetos escolares, trabalho voluntário ou hobbies úteis.\n* Publicando resumos de livros lidos ou pesquisas em áreas de interesse tecnológico.\n* Transformando sua conta de consumidor passivo em criador de conteúdo inspirador.\n* Usando LinkedIn precocemente para construir rede profissional futura.",
+          "* Ensine-o a questionar a IA como um professor particular inteligente.\n* Usá-la para resumir referências extensas ou buscar fontes confiáveis.\n* Enfatizar a escrita de pesquisas com seu próprio estilo para desenvolver suas habilidades mentais.\n* Alertá-lo sobre os riscos de vieses ou informações incorretas que a IA pode apresentar.",
+          "* Diga-lhe que a transição de jogador para criador e desenvolvedor é o verdadeiro desafio.\n* Inscreva-o em cursos simples de desenvolvimento de jogos (como Roblox Studio) ou design gráfico.\n* Mostre o valor técnico e financeiro que pode obter no futuro.\n* Ajude-o a baixar as ferramentas necessárias para iniciar seu primeiro projeto de programação.",
+          "* Incentive-o a defender o bem online e apoiar colegas contra o bullying.\n* Publicar informações úteis e usar sua voz digital para gerar mudanças em sua comunidade.\n* Ensine a verificar a veracidade de notícias antes de compartilhar para combater fake news.\n* Incentive a organização de pequenas iniciativas digitais de conscientização em sua escola ou bairro.",
+          "* Comece dando-lhe um orçamento semanal em cartão pré-pago específico para jovens.\n* Ensine a verificar a segurança de sites antes de comprar online e proteger seus dados.\n* Revise extratos com ele mensalmente para aprender planejamento financeiro e economia.\n* Alerte sobre os riscos de anúncios enganosos que o levam a comprar coisas desnecessárias."
+        ]
+      },
+      "youth": {
+        "title": "Produtividade e Juventude",
+        "questions": [
+          "Como me livrar da distração causada por notificações constantes e recuperar minha capacidade de concentração profunda?",
+          "Quais as melhores estratégias de gestão de tempo digital (como técnica Pomodoro) para aumentar produtividade?",
+          "Como parar de afundar em 'trabalho falso' e focar minha energia no trabalho real?",
+          "Como proteger meus olhos e corpo da fadiga do uso prolongado de telas e integrar hábitos saudáveis?",
+          "Quais os riscos do marketing digital e como construir minha vontade para evitar redes sociais durante o trabalho?",
+          "Como estabelecer limites digitais claros entre trabalho e vida pessoal para evitar esgotamento?",
+          "Como organizar meu ambiente de trabalho digital para reduzir a desordem e aumentar clareza mental?",
+          "Qual o impacto real do multitarefa na qualidade do meu trabalho e como treinar foco total em uma tarefa?",
+          "Como lidar com a pressão da perfeição digital ao ver realizações alheias no LinkedIn?",
+          "Quais as melhores ferramentas para organizar projetos pessoais e profissionais de forma profissional e simples?",
+          "Como usar inteligência artificial como parceira criativa que multiplica minha produtividade, mantendo minha singularidade humana?",
+          "Como construir um sistema de aprendizado autodirigido online que atualize minhas habilidades continuamente?",
+          "Quais os passos para transformar minhas habilidades digitais em fonte de renda extra através do trabalho freelance?",
+          "Como desenvolver minha marca pessoal online para atrair oportunidades profissionais e construir rede de contatos?",
+          "Como transformar meu celular de fonte de distração em ferramenta de autodesenvolvimento?",
+          "Qual a rotina digital noturna que me ajuda a dormir profundamente após um dia de trabalho intenso?",
+          "Como construir comunicação eficaz e confiança com a equipe em ambiente híbrido ou remoto sem sentir isolamento?",
+          "Como manter habilidades de pensamento crítico e criatividade profunda na era da enxurrada superficial de informações?",
+          "Quais habilidades humanas (como empatia e liderança) a IA não pode substituir e como desenvolvê-las para reforçar minha competitividade?"
+        ],
+        "answers": [
+          "* Desative todas as notificações não essenciais no celular e computador\n* Agende períodos de concentração profunda usando técnica Pomodoro (25 min trabalho / 5 min descanso)\n* Use ferramentas de bloqueio de sites e apps distratores (como Freedom, Cold Turkey)\n* Treine a mente para focar através de leitura profunda ou meditação\n* Crie ambiente de trabalho físico limpo, livre de desordem visual e ruído"
+        ]
+      },
+      "marriage": {
+        "title": "Casamento Feliz",
+        "questions": [
+          "Como o uso excessivo do celular (phubbing) afeta a qualidade da comunicação emocional entre casais?",
+          "Quais os limites da privacidade digital entre cônjuges e um tem o direito de vasculhar o celular do outro?",
+          "Como evitar comparar nossa vida conjugal com as imagens perfeitas que influenciadores mostram nas redes?",
+          "Qual o impacto do vício em sites pornôs na intimidade e satisfação conjugal?",
+          "Como estabelecer regras digitais para casa que aumentem a conexão?",
+          "Como agir se um mal-entendido por mensagem de texto causar grande conflito entre nós?",
+          "Quais os riscos das amizades virtuais com o sexo oposto online e como levam à traição conjugal?",
+          "Como a luz azul e uso do celular antes de dormir afetam o ciclo do sono compartilhado?",
+          "Como resolver o 'silêncio conjugal digital' onde ambos estão no mesmo lugar mas a comunicação está cortada?",
+          "O que fazer se um dos parceiros exagera em compartilhar detalhes íntimos nas redes sociais?",
+          "Como usar apps de calendário compartilhado para maximizar coordenação e reduzir tarefas domésticas?",
+          "Como a tecnologia pode fortalecer o relacionamento em casos de viagem ou trabalho prolongado?",
+          "Quais formas inovadoras de usar conteúdo educacional online para desenvolver diálogo e inteligência emocional?",
+          "Como transformar um hobby compartilhado em tempo de qualidade que renove o espírito de amizade no casamento?",
+          "Como usar tecnologia para construir objetivos financeiros conjuntos e fortalecer parceria?"
+        ],
+        "answers": [
+          "* Cria sensação de desimportância e negligência no parceiro ignorado\n* Reduz qualidade do diálogo e elimina oportunidades de conversas espontâneas profundas\n* Diminui contato visual e físico necessário para construir intimidade\n* Aumenta probabilidade de mal-entendidos por falta de foco total na conversa\n* A longo prazo, constrói muro de isolamento emocional e ressentimento no relacionamento"
+        ]
+      },
+      "seniors": {
+        "title": "Terceira Idade",
+        "questions": [
+          "Como proteger idosos de se tornarem vítimas de golpes telefônicos e eletrônicos?",
+          "Quais as formas mais simples de ensinar idosos a usar apps de comunicação (como WhatsApp) para reduzir solidão?",
+          "Como personalizar configurações do celular (tamanho da fonte, volume, brilho) para necessidades físicas de idosos?",
+          "Quais os riscos de acreditar e compartilhar boatos e notícias médicas falsas que chegam por grupos?",
+          "Como a tecnologia pode ajudar a lembrar idosos de horários de remédios e exames periódicos com precisão?",
+          "Como agir se um idoso desenvolve vício em acompanhar notícias políticas ou conteúdo deprimente digitalmente?",
+          "Qual a importância do recurso de rastreamento (GPS) na proteção de idosos com problemas de memória?",
+          "Como proteger a privacidade de idosos de apps que coletam dados explorando sua pouca experiência técnica?",
+          "Qual o papel dos jogos mentais eletrônicos para estimular memória de idosos e prevenir doenças do envelhecimento?",
+          "Como treinar idosos para realizar transações governamentais e bancárias simples de casa para evitar deslocamentos?",
+          "Como transformar YouTube em escola educacional para idosos praticarem hobbies adiados como culinária ou artesanato?",
+          "Quais os melhores meios técnicos para monitorar remotamente a saúde de um idoso (como relógios que medem pulso)?",
+          "Como ajudar idosos a documentar sua história e memórias em áudio e vídeo para as próximas gerações?",
+          "Como plataformas digitais podem reintegrar idosos à sociedade através de grupos de interesses compartilhados?",
+          "Como desenvolver no idoso a habilidade de verificar a fonte antes de encaminhar mensagens e links?"
+        ],
+        "answers": [
+          "* Alertá-los para nunca compartilhar informações pessoais (número de cartão, código de transferência, senha) por telefone, não importa as alegações do interlocutor.\n* Ensinar a regra de ouro: bancos e instituições oficiais nunca pedem seus dados secretos por telefone ou mensagens.\n* Instalar apps de identificação de chamadas e combate a spam/golpes em seus celulares.\n* Incentivá-los a consultar um familiar antes de realizar qualquer pagamento baseado em pedido inesperado.\n* Simplificar e explicar os golpes mais comuns (herança falsa, prêmio fictício, sequestro, falsa identidade de parente)."
+        ]
+      },
+      "security": {
+        "title": "Segurança e Privacidade",
+        "questions": [
+          "O que fazer nos primeiros momentos ao descobrir que estou sofrendo chantagem eletrônica?",
+          "Como distinguir e-mail legítimo de mensagens de phishing que visam roubar meus dados?",
+          "Quais os passos legais oficiais para denunciar crime cibernético no meu país?",
+          "Como proteger minhas contas de invasão usando autenticação de dois fatores (2FA)?",
+          "O chantagista pode cumprir sua ameaça se eu bloqueá-lo (Block) imediatamente?",
+          "Quais os riscos de usar redes Wi-Fi públicas em cafés e aeroportos para meus dados bancários?",
+          "Como descobrir se há spyware ou apps de monitoramento ocultos no meu celular?",
+          "O que fazer se minha conta do WhatsApp ou Facebook for invadida e enviarem mensagens ofensivas em meu nome?",
+          "Como proteger minhas fotos e arquivos privados se perder ou roubarem meu celular?",
+          "Qual a diferença entre assédio eletrônico e chantagem, e como a lei define limites para cada um?",
+          "Como lidar com links de prêmios fictícios e 'trabalhos' de ganho rápido que visam roubar identidade?",
+          "Qual o método seguro para apagar todos os dados do celular antes de vendê-lo garantindo irreversibilidade?",
+          "Como proteger meus filhos de groomers (assediadores) em salas de chat e jogos online?",
+          "Navegar em sites suspeitos pode infectar meu dispositivo com ransomware?",
+          "Como construir um firewall pessoal e técnico que impeça invasores de explorar minhas vulnerabilidades pessoais?"
+        ],
+        "answers": [
+          "* Regra mais importante: não ceda nem pague nada. O pagamento incentiva o chantagista e aumenta suas exigências.\n* Não apague as evidências. Mantenha todas conversas, mensagens, fotos e gravações.\n* Corte comunicação imediatamente. Não responda às ameaças nem entre em contato com o chantagista.\n* Não reaja emocionalmente. O objetivo é assustá-lo para tomar decisões erradas; mantenha a calma.\n* Busque apoio imediatamente. Conte a alguém de confiança (amigo, familiar) e contate as autoridades competentes."
+        ]
+      }
+    }
+  },
+  "humanVision": {
+    "title": "Nossa Visão Humana",
+    "content": "Acreditamos que a tecnologia deve servir ao ser humano, não escravizá-lo. Buscamos construir uma sociedade digital consciente que preserve os valores humanos e relações autênticas na era da digitalização."
+  },
+  "references": {
+    "title": "Nossas Referências Humanas",
+    "islam": "Islamismo",
+    "christianity": "Cristianismo",
+    "judaism": "Judaísmo",
+    "buddhism": "Budismo",
+    "hinduism": "Hinduísmo",
+    "confucianism": "Confucionismo",
+    "taoism": "Taoísmo",
+    "shinto": "Xintoísmo",
+    "jainism": "Jainismo",
+    "zoroastrianism": "Zoroastrismo",
+    "african": "Filosofia Africana",
+    "secular": "Ética Humana",
+    "modals": {
+      "islam": {
+        "title": "Islamismo: Equilíbrio e Moderação no Uso da Tecnologia",
+        "content": "O Islã é religião de misericórdia e construção; ordena remover obstáculos do caminho, não apenas como ato individual, mas como metodologia civilizacional abrangente. Na era das redes sociais, o 'caminho' transformou-se de trajeto físico para espaço digital percorrido diariamente pelo ser humano, onde ele se expõe ao que pode destruir seu pensamento, coração e relações. Daí surge a necessidade de compreensão mais profunda do conceito de 'mal' e 'caminho' à luz dos objetivos da Sharia.\n\nPrimeiro: Remover o mal não é privilégio exclusivo dos muçulmanos\nO Profeta ﷺ não restringiu remover o mal apenas aos muçulmanos, mas tornou-o parte das ramificações da fé em geral. Disse ﷺ: 'A fé possui mais de setenta ramificações... e a mais simples delas é remover um obstáculo do caminho' (relatado por Muslim). Isto inclui todos que percorrem o caminho, muçulmanos ou não, pois o objetivo da Sharia é preservar a todos do dano sem discriminação.\n\nSegundo: O mal não é apenas material, mas espiritual — mais perigoso ainda\nO mal a ser removido não se limita a pedras ou espinhos, mas inclui:\n• Palavras ofensivas\n• Olhares proibidos\n• Convites ao desvio\n• Comportamentos que confundem ou afligem as pessoas\nIbn Al-Qayyim disse: 'O maior mal é aquele que corrompe corações e mentes'. O significado é que tudo que perturba a jornada humana é um mal a ser removido.\n\nTerceiro: A vida é um caminho do berço ao túmulo\nA vida terrena é uma jornada temporária. Disse ﷺ: 'Sê na vida como um estrangeiro ou viajante de passagem' (relatado por Al-Bukhari). Cada momento é um teste: facilitaremos o caminho para as pessoas ou colocaremos obstáculos? Assim, o 'caminho' no hadith não é um lugar geográfico, mas uma jornada existencial.\n\nQuarto: Destruir o pensamento é um dos males mais graves\nO que enfraquece a mente humana ou a leva a decisões erradas — como duvidar de valores, espalhar desespero ou incitar à raiva — é um mal espiritual e intelectual. A mente é local da responsabilidade; Deus disse: 'Por certo, a audição, a visão e o coração — de tudo isso se será questionado' (Al-Isra 17:36). Quem espalha o que corrompe pensamentos é como quem espalha veneno na comida.\n\nQuinto: Redes sociais: novo caminho para o mal moderno\nPlataformas de comunicação tornaram-se caminho virtual percorrido por milhões diariamente. Seu uso incorreto levou a:\n• Ruptura de laços familiares\n• Incitação à vingança\n• Levar alguns ao suicídio\nIsto é um mal composto que combina dano psicológico, social e espiritual. Quem percorre este caminho cheio de venenos traiu a confiança e violou seu princípio: 'Não causarás dano nem retribuirás com dano'.\n\nSexto: Programas não são neutros; são guiados pelo lucro, não pela orientação\nA maioria dos algoritmos de redes sociais não distingue entre verdade e falsidade, mas entre o que gera lucro e o que não gera. Alimentam você com o que sua psique prefere, mesmo que destrua seu espírito. Por isso, o muçulmano deve:\n• Monitorar suas fontes\n• Escolher seu conteúdo com consciência\n• Treinar-se para discernir, não para se deixar levar\n\nConclusão e recomendações:\n• Adotar discurso educativo islâmico que esclareça o perigo do mal digital como forma proibida de dano.\n• Apoiar programas educativos não lucrativos que fortaleçam valores, não desejos.\n• Capacitar famílias e educadores a entender mecanismos das plataformas e proteger filhos.\n• Enfatizar que a intenção não basta; o conteúdo também deve ser benéfico.\n• Considerar proteção das mentes como prioridade do trabalho educativo e social, como protegemos corpos de epidemias.\n\n'Quem a preservar, será como se preservasse toda a humanidade' (Al-Ma'idah 5:32)\nA mente é o segredo da vida, e protegê-la está entre as maiores portas da preservação da existência humana."
+      },
+      "christianity": {
+        "title": "Cristianismo: Amor e Relações Humanas",
+        "content": "O cristianismo fundamenta-se no amor a Deus e ao próximo, e convida a remover tudo que obstrui o caminho do bem e da paz. Na era das mídias digitais, onde o mundo virtual tornou-se caminho percorrido por milhões diariamente, surge a necessidade de compreensão mais profunda de nosso chamado como discípulos de Cristo neste novo campo.\n\nPrimeiro: Servir ao próximo no espaço digital\nCristo não limitou o mandamento 'Amarás teu próximo como a ti mesmo' (Marcos 12:31) a limites geográficos ou meios de comunicação; incluiu todo ser humano que encontramos. Diz São Paulo: 'Levai as cargas uns dos outros, e assim cumprireis a lei de Cristo' (Gálatas 6:2). Remover o mal digital — seja por palavra, imagem ou informação — é forma moderna de carregar as cargas do próximo, especialmente num mundo que sofre de solidão e ansiedade.\n\nSegundo: O novo mal contra os irmãos em Cristo\nA Bíblia alerta sobre o poder da palavra: 'A morte e a vida estão no poder da língua' (Provérbios 18:21). Em nossa era, esta língua estendeu-se às plataformas de comunicação. O mal digital inclui:\n• Linguagem obscena e ofensiva (Efésios 4:29)\n• Boatos e calúnias (2 Coríntios 12:20)\n• Incitação à discórdia e divisão (Gálatas 5:19-21)\n• Sedução e pecado (Mateus 18:6)\nTudo isto viola o mandamento 'Amarás teu próximo como a ti mesmo' e constitui pecado contra o corpo único de Cristo.\n\nTerceiro: A vida como peregrinação rumo ao Reino\nOs cristãos veem a vida como peregrinação rumo ao Reino de Deus. O espaço digital tornou-se parte desta jornada. A pergunta que orienta a consciência do crente: uso estes meios para servir meus irmãos na jornada, ou coloco tropeços em seu caminho? (Romanos 14:13). O chamado é ser 'sal e luz' até no mundo digital (Mateus 5:13-16).\n\nQuarto: Renovação da mente diante do desafio digital\nSão Paulo enfatiza: 'Não vos conformeis com este século, mas transformai-vos pela renovação da vossa mente' (Romanos 12:2). O maior perigo na era digital é ter nossas mentes moldadas conforme os valores do mundo, não conforme a Palavra de Deus. Conteúdo que questiona a dignidade humana, prega violência ou explora os vulneráveis é mal espiritual que ameaça a salvação das almas.\n\nQuinto: Responsabilidade para com os vulneráveis\nOs cristãos carregam responsabilidade especial para com 'estes pequeninos' (Mateus 18:6). Plataformas digitais expõem os pequenos — seja pela idade ou pela fé — a graves perigos:\n• Bullying e exploração\n• Desinformação e heresias\n• Vício e isolamento\nQuem contribui para estes males é como quem escandaliza 'um destes pequeninos' (Mateus 18:6).\n\nSexto: Liberdade responsável na era dos algoritmos\nO cristianismo chama à liberdade, mas 'não useis da liberdade para dar ocasião à carne' (Gálatas 5:13). Algoritmos que alimentam desejos e raiva contradizem nosso chamado à virtude e autodomínio. O crente deve:\n• 'Examinai tudo e retende o bem' (1 Tessalonicenses 5:21)\n• 'Semear para o Espírito, não para a carne' (Gálatas 6:8)\n• Ser senhor da tecnologia, não seu escravo\n\nConclusão e recomendações do ponto de vista cristão:\n• Aplicar os mandamentos do amor digitalmente: desenvolver teologia pastoral digital que traduza mandamentos de amor e justiça em comportamento prático no espaço virtual.\n• Comunidades digitais cristãs: construir comunidades e sites que ofereçam conteúdo edificante, incentivem reconciliação e ofereçam esperança num mundo carente.\n• Educação digital cristã: incluir educação sobre uso cristão da tecnologia em programas de catequese e educação familiar, com foco na proteção dos pequenos.\n• Testemunho digital: incentivar crentes a serem testemunhas de Cristo no mundo digital através do amor, respeito e diálogo construtivo, não através de contendas e divisões.\n• Oração e vigilância: lembrar crentes da necessidade de orar por sabedoria no uso da tecnologia e manter vigilância espiritual contra as seduções do mundo digital.\n\n'Tudo quanto quereis que vos façam os homens, assim fazei vós também a eles' (Mateus 7:12)\nEsta regra de ouro é a chave para um comportamento cristão ético na era digital. Ao interagir com outros através das telas, devemos lembrar que lidamos com almas criadas à imagem de Deus, chamados a ser guardiões de nossos irmãos, buscando construir o Reino do amor até nas menores interações digitais."
+      }
+    }
+  },
+  "messagesModal": {
+    "title": "🌍 Histórias das Civilizações: Um Grito Global pela Misericórdia Digital",
+    "content": "Do coração do Egito, onde mil divórcios são registrados anualmente por mau uso de telas. Onde bilhões de libras egípcias são desperdiçados entre perdas de produtividade, golpes eletrônicos e tratamento psicológico. Levantamos nossa voz não apenas como egípcios, mas como seres humanos que veem a humanidade enfrentando um novo teste. O objetivo desta plataforma não é acusar a tecnologia, mas salvar o relacionamento humano dela. Não pedimos o banimento de celulares, mas convidamos a usá-los com consciência. Toda criança em Tóquio ou Trípoli, em São Paulo ou Seul merece olhar nos olhos de sua mãe sem uma tela entre eles. Todo jovem em Cidade do Cabo ou Kuala Lumpur merece construir sua identidade a partir de sua realidade, não da ilusão dos algoritmos. Redes sociais não são mal, mas também não são neutras; são espelho das intenções de quem as dirige. Hoje, se não forem guiadas pela misericórdia, podem tornar-se o caminho mais rápido para desintegrar famílias, semear desespero e levar alguns ao suicídio. Por isso, 'Histórias das Civilizações' lança: um apelo humano aberto a todo governo, instituição religiosa, cultural ou civil para participar da construção de um espaço digital que proteja a dignidade, não a ameace. Começamos no Egito — porque a honestidade começa em casa. Mas nossa mensagem não é só para o Egito, e sim para o mundo inteiro.\n\n✨ O que pedimos hoje:\n- Aos pais: que voltem a ser o primeiro 'filtro' para seus filhos.\n- Aos governos: que estabeleçam políticas que protejam crianças do vício digital.\n- Às plataformas: que escolham o ser humano acima do lucro.\n- Às instituições espirituais e culturais: que orientem a consciência, não permaneçam em silêncio.\n- A toda referência no mundo — religiosa, filosófica ou humanitária — que se una a este grito, em sua língua, valores e visão.\n\n> Compartilhe nossa mensagem e salve quem ama\n> Proteja a humanidade antes que ela se torne uma memória digital.\n> Não deixe que a tela roube a infância de seu filho, a paz de seu lar ou sua esperança na vida."
+  },
+  "programsModal": {
+    "title": "Perguntas Frequentes",
+    "instruction": "Escolha a pergunta que deseja responder"
+  },
+  "buttons": {
+    "learnMore": "Saiba Mais",
+    "readMore": "Leia Mais",
+    "close": "Fechar",
+    "submit": "Enviar",
+    "download": "Baixar",
+    "browseBook": "Navegar pelo Livro"
+  },
+  "footer": {
+    "title": "Histórias das Civilizações CiviStories",
+    "tagline": "Iniciativa individual sem fins lucrativos — um grito digital para proteger a humanidade",
+    "copyright": "Todos os direitos reservados",
+    "year": "2025"
+  },
+  "common": {
+    "loading": "Carregando...",
+    "error": "Ocorreu um erro",
+    "success": "Concluído com sucesso"
+  }
+}

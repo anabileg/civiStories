@@ -1,0 +1,338 @@
+{
+  "meta": {
+    "lang": "tr",
+    "dir": "ltr",
+    "name": "Türkçe",
+    "flag": "https://flagcdn.com/w80/tr.png"
+  },
+  "nav": {
+    "home": "Ana Sayfa",
+    "goals": "Hedeflerimiz",
+    "cry": "Çığlığımız",
+    "messages": "Mesajlarımız",
+    "national": "Ulusal Farkındalık",
+    "media": "Görsel Galeri",
+    "statistics": "İstatistikler",
+    "losses": "Kayıplar",
+    "programs": "Farkındalık Programları",
+    "humanVision": "İnsani Vizyon",
+    "references": "İnsani Referanslarımız",
+    "contact": "İletişim",
+    "buy": "Kitabı Satın Al"
+  },
+  "hero": {
+    "title": "CiviStories | Dijital İllüzyon Tsunami",
+    "tsunami": "Tsunami",
+    "subtitle": "Dijital Yanılsama: Medeniyet Beşiği Mısır'dan Dünyaya... İnsanlığı Kurtarmak İçin Bir Çığlık",
+    "mainAlert": "Hayali Dijital Sel: Dijital Bağımlılıktan Hayatlarımızı Nasıl Koruyabiliriz?"
+  },
+  "about": {
+    "title": "Stratejik Hedeflerimiz",
+    "description": "\"Medeniyetlerin Hikâyeleri\" girişimiyle, dijital parçalanmanın risklerinden Mısır toplumsal dokusunu korumayı, aileyi güçlendirmeyi ve psikolojik-sosyal dengenin yeniden kurulmasını hedefliyoruz. Dijital yanılsamanın aile ve toplum istikrarını tehdit ettiği Mısır'dan başladık ve dijital bağımlılığın tehlikelerinden insanlığı korumak için — aileyi güçlendirerek, psikolojik dengeyi yeniden kurarak ve insani bir dijital alan inşa ederek — küresel bir çığlık atmaya çalışıyoruz."
+  },
+  "messages": {
+    "title": "Çığlığımız",
+    "content": "Mısır medeniyetinin kalbinden, dünyaya mesajlarımızı duyuruyoruz:\n• Teknoloji bir araçtır, insanlığın yerini alamaz.\n• Aile, dijital çöküşe karşı ilk kalemdir.\n• Dijital farkındalık her bireyin hakkıdır, her toplumun görevidir.\n• Dijital ilerleme ile insani değerler arasında denge kurulmadıkça güvenli bir gelecek yoktur."
+  },
+  "media": {
+    "guideline": "Mesajımızı almak için resme tıklayın"
+  },
+  "institutions": {
+    "title": "Konu herkesi ilgilendiriyor",
+    "azhar": {
+      "name": "El-Ezher",
+      "description": "Dijital bağımlılık nedeniyle aile içi parçalanma vakalarının takibi ve tedavisi, uzman fetva komiteleri aracılığıyla.",
+      "source": "Kaynak: El-Ezher Elektronik Fetva Merkezi İstatistikleri"
+    },
+    "church": {
+      "name": "Mısır Kilisesi",
+      "description": "Aile istikrarını güçlendirme ve ev içi dijital izolasyonla mücadele, danışmanlık programları aracılığıyla.",
+      "source": "Kaynak: Kilise Aile Danışmanlığı Raporları"
+    },
+    "awqaf": {
+      "name": "Vakıflar Bakanlığı",
+      "description": "Eşlerin teknolojinin psikolojik istikrarlarına olan etkileri konusunda bilinçlendirilmesi amacıyla \"Barınak ve Sevgi\" girişimi.",
+      "source": "Kaynak: Mısır Vakıflar Bakanlığı"
+    }
+  },
+  "ticker": {
+    "items": [
+      "Mısır'da yılda 311 bin boşanma",
+      "Mısır'da 104 milyon cep telefonu",
+      "Çocukların günlük ekran süresi 5,7 saat",
+      "Yıllık 15 milyar Mısır lirası verimlilik kaybı",
+      "4,5 milyar Mısır lirası psikolojik tedavi maliyeti",
+      "2,1 milyar Mısır lirası dijital dolandırıcılık kaybı"
+    ]
+  },
+  "stats": {
+    "title": "Şaşırtıcı İstatistikler",
+    "divorce": {
+      "label": "yıllık boşanma",
+      "source": "Merkezi Kamu Hareketlendirme ve İstatistik Ajansı 2023"
+    },
+    "phones": {
+      "label": "Mısır'da cep telefonu",
+      "source": "Ulusal Telekomünikasyon Düzenleme Kurumu 2024"
+    },
+    "screenTime": {
+      "label": "çocukların günlük ekran saati",
+      "source": "Dünya Sağlık Örgütü 2024"
+    }
+  },
+  "losses": {
+    "title": "Felaket Kayıplar",
+    "productivity": {
+      "label": "milyar Mısır lirası verimlilik kaybı",
+      "source": "Planlama ve Ekonomik Kalkınma Bakanlığı"
+    },
+    "mentalHealth": {
+      "label": "milyar psikolojik tedavi maliyeti",
+      "source": "Sağlık ve Nüfus Bakanlığı"
+    },
+    "fraud": {
+      "label": "milyar dijital dolandırıcılık kaybı",
+      "source": "Bilgisayar Suçlarıla Mücadele Genel Müdürlüğü"
+    }
+  },
+  "programs": {
+    "title": "Toplumsal Farkındalık Programları",
+    "instruction": "Sizin için uygun programı seçin",
+    "child": "Dijital Çocukluk",
+    "teens": "Gençler Dünyası",
+    "youth": "Verimlilik ve Gençlik",
+    "marriage": "Mutlu Evlilik",
+    "seniors": "Yaşlılar",
+    "security": "Güvenlik ve Gizlilik",
+    "data": {
+      "child": {
+        "title": "Dijital Çocukluk",
+        "questions": [
+          "Çocuğun ekranları kullanmasına izin vermek için teknik ve psikolojik açıdan uygun yaş nedir?",
+          "Telefonun normal kullanımı ile dijital izolasyonun başlangıcı arasındaki farkı nasıl anlarım?",
+          "Ekran süresini öfke nöbetleri olmadan sakin bir şekilde nasıl sonlandırırım?",
+          "Çocukların davranışları üzerinde doğrudan tehlike yaratan belirli uygulamalar var mı?",
+          "Yemek sırasında çocuğa telefon vermenin riskleri nelerdir?",
+          "Çocuğumu aniden ortaya çıkan uygunsuz içerikten nasıl korurum?",
+          "Telefon çocukların konuşma ve dil gelişimini etkiler mi?",
+          "Çocuğumun telefon oyunlarına bağımlılığını nasıl tedavi ederim?",
+          "Uyku öncesi ekranları kapatmak için ideal zaman nedir?",
+          "Tablet kullanımı çocukların gözünü zayıflatır mı?",
+          "Teknolojiyi çocuğum için nasıl eğitimsel bir araç haline getiririm?",
+          "Çocuğum yanlışlıkla şiddet içerikli bir şey keşfederse ne yapmalıyım?",
+          "Çocuklar için eğitim amaçlı cihazlar tamamen güvenli midir?",
+          "Telefon kullanımı konusunda çocuğumla nasıl güven ilişkisi kurarım?",
+          "Ekranlardan kaynaklanan psikolojik yorgunluğun çocuklardaki belirtileri nelerdir?",
+          "Evimde 'dijital oruç' nasıl uygularım?"
+        ],
+        "answers": [
+          "* 18-24 ayın altındaki çocuklar için ekran kullanımı kesinlikle yasaktır.\n* Bu yaşta tek istisna, aile üyeleriyle iletişim kurmak amacıyla görüntülü aramalardır.\n* 2-5 yaş arası çocuklar için günlük maksimum süre, eğitici içerikli bir saattir.\n* Ebeveynlerin çocuğun ne izlediğini anlamasını ve gerçek hayata aktarmasını sağlamak için çocuğuyla birlikte izlemesi gerekir.",
+          "* Normal kullanım, eğlence aracıdır ve gerçek sosyal etkileşimi olumsuz etkilemez.\n* İzolasyon, cihazdan ayrılma anında aşırı huysuzluk gibi yoksunluk belirtileri ortaya çıktığında başlar.\n* Geleneksel hobilerden ve akranlarla oyun oynamaktan ilgi kaybı tehlike işareti olarak görülür.\n* Ekran kullanımı nedeniyle kişisel hijyenin ihmal edilmesi veya yemek-uyku saatlerinin bozulması.",
+          "* Bitişten 10 ve 5 dakika öncesinde kademeli uyarı kullanın.\n* Çocuğa seçenek sunun (şimdi kapatmak mı istersin yoksa bu seviyeyi bitirince mi?).\n* Ekran süresinin sonunu sevdiği başka bir aktiviteyle ilişkilendirin (küplerle oynamak veya dışarı çıkmak gibi).\n* Ebeveynlerin de ekran sürelerini sonlandırarak çocuğa örnek olması gerekir.",
+          "* Kısa video uygulamaları (TikTok gibi) — sahnelerin hızı odaklanmayı zayıflatır.\n* Yabancılarla açık sohbet içeren oyunlar (bazı Roblox odaları gibi).\n* Tekrarlayan iç satın almaları ve para israfını teşvik eden uygulamalar.\n* Yaşına uygun olmayan reklamlar içerebilecek denetlenmemiş içerik.",
+          "* Çocuğun doğal doygunluk hissini engeller ve obezite riskini artırır.\n* Yemek sırasında tad alma becerisini ve etkili aile iletişimi zayıflatır.\n* Çocuğu yemeği yalnızca görsel eğlenceyle ilişkilendirir ve gerçek tad alma zevkini kaybeder.\n* Çiğneme sırasında dikkat dağılmasından dolayı sindirim sorunlarına yol açabilir.",
+          "* Tüm tarayıcılarda YouTube Kids ve güvenli arama özelliğini etkinleştirin.\n* Google Family Link gibi gelişmiş ebeveyn kontrol uygulamalarını kullanın.\n* Telefon kullanımını her zaman evin açık bir alanında, kapalı odalarda değil gerçekleştirin.\n* Çocuğu garip bir şey gördüğünde ekranı hemen kapatıp size bildirmesi konusunda bilinçlendirin.",
+          "* Evet, ekranla etkileşim tek taraflıdır ve dil becerilerini geliştirmez.\n* Çocuklar harf çıkışlarını ve diyalog yeteneğini geliştirmek için canlı insan etkileşimi gerektirir.\n* Ekran başında uzun süre geçirmek çocuğun edindiği kelime sayısını azaltır.\n* Dijital aşırılık sosyal gecikmeye ve beden dilini anlamada zorluğa yol açabilir.",
+          "* Cihazı ani çekmeyin, saatleri azaltmak için kademeli bir program oluşturun.\n* Çocuğa çekici ve ilgi çekici alternatifler sunun (çizim, spor, kağıt kitaplar).\n* Süreye uyumu dışarıda sevdiği bir aktivite veya kısa geziyle ödüllendirin.\n* Enerjisini ekranlardan uzakta harcaması için çocuğunuzla günlük fiziksel aktivitelerde bulunun.",
+          "* Tüm ekranların uyumadan en az bir saat önce kapatılması gerekir.\n* Mavi ışık, derin uyku için sorumlu melatonin hormonunun salgılanmasını engeller.\n* Ekranı kağıt kitap okuma veya çocuğunuzla sakin bir sohbetle değiştirin.\n* Gece kullanımını önlemek için cihazların şarjını yatak odalarının dışında yapın.",
+          "* Göz kuruluğu ve yorgunluğuna neden olur, miyopinin artmasına katkıda bulunur.\n* 20-20-20 kuralını uygulayın: Her 20 dakikada 6 metre uzaklığa 20 saniye bakın.\n* Herhangi bir cihaz kullanırken odada yeterli aydınlatma olduğundan emin olun.\n* Çocuğun gözleri ile tablet ekranı arasında güvenli bir mesafe koruyun.",
+          "* Mantıksal düşünme ve temel programlama becerilerini geliştiren uygulamalar seçin.\n* Pasif izleme yerine çocuğunuzla birlikte teknik bulmacaları çözün.\n* Yeni bir uygulamaya izin vermeden önce net eğitim hedefleri belirleyin.\n* Çocuğu doğayı fotoğraflamak veya sanatsal projeler için kamera kullanmaya teşvik edin.",
+          "* Tamamen sakin kalın, çocuğu azarlamayın veya suçlu hissettirmeyin.\n* Bu içeriğin gerçek olmadığını ve psikolojik sağlığımız için zararlı olduğunu açıklayın.\n* Sahneye dair duygularını konuşun ve korkularını paylaşması için güven verin.\n* Bu içeriğin görünmesine neden olan teknik açığı hemen kapatın.",
+          "* Evet, açık internete veya denetlenmemiş uygulama mağazalarına bağlı değilse.\n* Her zaman içeriğin kalitesini ve gizli mesaj veya reklamların olup olmadığını kontrol edin.\n* Uygulamayı indirmeden önce yorumlarını inceleyin ve gizlilik politikasını okuyun.\n* Görsel ve zihinsel yorgunluğu önlemek için eğitim amaçlı cihazlar için bile belirli bir süre belirleyin.",
+          "* Onun için dijital bir arkadaş olun, bazen onunla oynayın ve ilgi alanlarını anlayın.\n* Garip veya korkutucu bir şey gördüğünde size hemen, korkmadan bildirmesini öğretin.\n* Emirler vermeden, neden zaman sınırları koyduğumuzu açıklayın.\n* Kuralların evdeki herkes için geçerli olmasını sağlayarak samimi bir örnek olun.",
+          "* Cihazı elinden almaya çalıştığınızda ani öfke ve ruh hali değişimleri.\n* Günlük görevlerde odaklanma eksikliği veya ders ve oyunlara ilginin azalması.\n* Uykuda belirgin bozukluklar veya dijital içerikle ilişkili kabuslar.\n* Gerçek hayatta kardeşler veya arkadaşlarla ilişkilerde ani saldırganlık.",
+          "* Haftada bir gün evi tamamen cihazlardan arındırın.\n* Belirli saatleri (örneğin yemek saatleri) telefon kullanımını yasaklamak için ayırın.\n* Dijital süreyi grup oyunları, aile sohbetleri veya kitap okuma ile değiştirin.\n* Dijital orucu aile bağlarını güçlendirmek için kutlayın."
+        ]
+      },
+      "teens": {
+        "title": "Gençler Dünyası",
+        "questions": [
+          "Gençin tam mahremiyet isteği ve telefonunun denetlenmesini reddetmesiyle nasıl başa çıkarım?",
+          "Genç dijital 'şantaj tuzağına' düştüğünün belirtileri nelerdir ve sakin bir şekilde nasıl davranırım?",
+          "Oğlumu/kızımı sosyal medya fenomenleriyle sürekli mükemmellik takıntısı ve karşılaştırmadan nasıl korurum?",
+          "Gençin aşırı fikirleri yayma eğilimindeki grupları veya sayfaları takip ettiğini fark edersem doğru davranış nedir?",
+          "Genç 'dijital itibarını' nasıl yönetmeli ve bugün paylaştığı şeyin onu takip edeceğini nasıl anlamalı?",
+          "'Video oyunları' bağımlılığıyla ve akademik başarı üzerindeki etkisiyle nasıl mücadele ederiz?",
+          "Anonim sohbet uygulamalarının (Anonymous Apps) gençler üzerindeki riskleri nelerdir?",
+          "Gençi telefon kullanım süresi konusunda çatışmaya girmeden nasıl sınırlar koydururum?",
+          "Genç 'siber zorbalığa' kurban mıdır yoksa içinde mi yer alır — her iki durumda nasıl davranırım?",
+          "Ebeveyn olarak gençi 'TikTok challenge'larının tehlikeleri konusunda nasıl bilinçlendiririm?",
+          "Genç kabul sürecini destekleyecek 'profil' oluşturmak için sosyal platformları nasıl kullanabilir?",
+          "Gençi 'yapay zeka'yı öğrenme aracı olarak kullanma becerisinde nasıl eğitirim?",
+          "Gençin elektronik oyunlara olan ilgisini programlama veya tasarım tutkusuna nasıl dönüştürürüm?",
+          "Gençte olumlu etki yaratan 'dijital liderlik' becerisini nasıl geliştiririm?",
+          "Gençi ödeme uygulamaları aracılığıyla bütçesini yönetme konusunda nasıl yetkinleştiririm?"
+        ],
+        "answers": [
+          "* Bu yaşta mahremiyet, kişisel özerkliğin inşası için gereklidir.\n* Doğrudan gözetim (gizli takip) yerine, bilinçli rehberliğe dönüşün.\n* Genel kurallar üzerinde anlaşın (örneğin yatak odasında telefon kullanmama).\n* Rolünüzün kısıtlamak değil korumak olduğunu açıklayın ve güven köprüsü kurun.",
+          "* Belirtiler şunları içerir: ani izolasyon, mesaj geldiğinde aşırı gerginlik.\n* Yaklaştığınızda telefonu hızla kapatma, ruh hali veya akademik başarısında düşüş.\n* Sakin davranış şunları gerektirir: Gençi sarmalayın ve yalnız olmadığını hissettirin.\n* Kanıtları toplayın (mesaj ekran görüntüleri), ardından yetkililere derhal bildirin.",
+          "* Eleştirel farkındalığı geliştirin; ona gösterilenin yalnızca seçilmiş anlar olduğunu öğretin.\n* Gerçekliğin güzelleştirilmesi için arka planda filtreler ve aydınlatma olduğunu açıklayın.\n* Gerçek alanlarda (bilim, spor) ilham verici kişilikleri takip etmesini teşvik edin.\n* Güvenini ve somut gerçek başarılarını güçlendirmeye odaklanın.",
+          "* Şok ve şiddetli saldırıdan kaçının — bu onu isyan olarak bu fikirlere tutunmaya itebilir.\n* Sakin bir diyalogla başlayın: Bu içerik türünü sana çeken neydi?\n* Alternatif bakış açıları ve mantıklı sonuçları sunun, net bir şekilde tartışın.\n* Bu fikirleri profesyonelce çözmek için eğitim uzmanından yardım alın.",
+          "* Ona altın kuralı söyleyin: Gelecekteki işvereninin görmesini istemediğin hiçbir şeyi paylaşma.\n* Şirketlerin ve üniversitelerin artık adayların dijital geçmişini araştırdığını açıklayın.\n* Dijital izinin silinmeyen gerçek özgeçmişi olduğunu öğretin.\n* Yeteneklerini ve olumlu yanlarını dünyaya yansıtan içerik paylaşmasını teşvik edin.",
+          "* Tamamen yasaklamayın, görevleri tamamladıktan sonra ödül olarak kullanmasını sağlayın.\n* Belirli saatler belirleyin ve özellikle okul günlerinde kademeli olarak azaltın.\n* Ekran başında geçirdiği süreyi telafi edecek fiziksel aktiviteleri teşvik edin.\n* Oyunların mantıksal düşünmeyi geliştirdiğinden emin olun, şiddeti değil.",
+          "* Tehlikeleri şunlardır: acımasız zorbalık, taciz ve kandırma için verimli bir ortam.\n* Denetimin olmaması, bilinmeyenlerden ciddi psikolojik zarara maruz kalma olasılığını artırır.\n* Bu uygulamaların verilerini şantaj için kullanabileceğini gençle konuşun.\n* Güvenlik ve gizlilik kuralları yüksek olan bilinen platformları kullanmalarını teşvik edin.",
+          "* 'Dijital sözleşme' yoluyla; onunla oturun ve günlük kullanım saatlerini birlikte belirleyin.\n* Genç kuralların oluşturulmasında yer aldığında, uygulamada daha ciddi ve bağlı olur.\n* Sağlık ve psikolojik riskleri bilimsel gerçekler olarak açıklayın, emir olarak değil.\n* Aile zamanlarında kendi telefonunuzu bırakarak örnek olun.",
+          "* Kurban ise: Yanıtlamamasını, zorbalığı derhal engellemesini ve olanı belgelemesini öğretin.\n* Katılımcı ise: Etik ve yasal sonuçlar konusunda sert duruş sergileyin.\n* Başkalarına verebileceği zararı anlaması için empati becerisini geliştirin.\n* Deneyimin etkilerini atlatması ve güvenini yeniden inşa etmesi için tam psikolojik destek verin.",
+          "* Rolünüz mantıksal analizdir; challenge'ı tartışın ve risklerini sorun.\n* Sürü zihniyeti ve körü körüne taklitten ziyade bağımsız düşünmeyi teşvik edin.\n* Trende uymak için bedensel bütünlüğünü riske atmanın değmeyeceğini açıklayın.\n* Güvenle katılacağı olumlu ve faydalı challenge'lar önermesini isteyin.",
+          "* Başarılarını paylaşarak: okul projeleri, gönüllü çalışmalar veya faydalı hobiler.\n* Teknik ilgi alanlarında okuduğu kitapların özetleri veya yaptığı araştırmalar.\n* Hesabını pasif içerik tüketicisinden ilham verici içerik üreticisine dönüştürme.\n* Gelecekteki profesyonel ağınızı inşa etmek için erken LinkedIn kullanımı.",
+          "* Yapay zekayı akıllı bir özel öğretmen olarak nasıl sormalarını öğretin.\n* Uzun kaynakları özetlemek veya güvenilir bilgi kaynakları aramak için kullanın.\n* Zihinsel becerilerini geliştirmek için araştırmaları kendi üslubuyla yazmaya teşvik edin.\n* Yapay zekanın önyargı veya yanlış bilgi risklerine dikkat çekin.",
+          "* Oyuncudan üretici ve geliştirici olmanın gerçek meydan okuma olduğunu söyleyin.\n* Roblox Studio veya grafik tasarımı gibi basit oyun geliştirme kurslarına kaydedin.\n* Gelecekte elde edebileceği teknik ve maddi değeri açıklayın.\n* İlk programlama projesine başlaması için gerekli araçları indirmesine yardımcı olun.",
+          "* İnternette hak için mücadele etmesini ve arkadaşlarını zorbalığa karşı desteklemesini teşvik edin.\n* Faydalı bilgiler paylaşın ve toplumunda değişim yaratmak için dijital sesini kullanın.\n* Yanlış haberleri önlemek için haberleri yayınlamadan önce doğrulamasını öğretin.\n* Okulunda veya mahallesinde küçük dijital farkındalık girişimleri düzenlemesini teşvik edin.",
+          "* Haftalık bütçe olarak gençlere özel ön ödemeli kart vererek başlayın.\n* Çevrimiçi alışveriş öncesi site güvenliğini ve veri korumasını öğretin.\n* Finansal planlama ve tasarruf öğrenmesi için aylık hesap ekstrelerini birlikte inceleyin.\n* Gereksiz şeyleri satın almaya iten yanıltıcı reklamların risklerine dikkat çekin."
+        ]
+      },
+      "youth": {
+        "title": "Verimlilik ve Gençlik",
+        "questions": [
+          "Sürekli bildirimlerin neden olduğu dikkat dağılmasından nasıl kurtulur ve derin odaklanma yeteneğimi geri kazanırım?",
+          "Günlük hedeflerimi gerçekleştirmek ve verimliliğimi artırmak için Pomodoro tekniği gibi dijital zaman yönetimi stratejileri nelerdir?",
+          "Sahte işlerin selinde boğulmaktan nasıl kurtulur ve enerjimi gerçek işe odaklarım?",
+          "Uzun süre ekran başında oturmanın göz ve beden yorgunluğundan nasıl korunurum ve çalışma rutinime sağlıklı alışkanlıklar nasıl entegre ederim?",
+          "Dijital pazarlamanın riskleri nelerdir ve çalışma saatlerimde sosyal medyayı engellemek için iradem nasıl geliştiririm?",
+          "Meslek tükenmesini önlemek için iş ve kişisel yaşam arasında net dijital sınırlar nasıl koyarım?",
+          "Zihinsel netliği artırmak ve karmaşayı azaltmak için dijital çalışma ortamımı nasıl düzenlerim?",
+          "Çoklu görevlendirmenin iş kalitem üzerindeki gerçek etkisi nedir ve tek bir göreve tam odaklanma becerisini nasıl geliştiririm?",
+          "LinkedIn gibi platformlarda başkalarının başarılarını gördüğümde dijital mükemmellik baskısı ve kıyas çılgınlığıyla nasıl başa çıkarım?",
+          "Kişisel ve profesyonel projelerimi profesyonel ve basit bir şekilde yönetmek için en iyi araçlar ve uygulamalar nelerdir?",
+          "Yapay zekayı yaratıcı ortağım ve kişisel yardımcım olarak nasıl kullanırım ki verimliliğimi katlarsam, insanımsı farkındalığımı koruyarak?",
+          "Beceri setimi sürekli güncelleyip iş dünyasındaki gelişmelere ayak uydurmak için çevrimiçi kendini öğrenme sistemini nasıl kurarım?",
+          "Dijital becerilerimi serbest çalışma yoluyla ek gelir kaynağına nasıl dönüştürürüm ve etkili ve düzenli bir şekilde nasıl başlarım?",
+          "Uygun profesyonel fırsatları çekmek ve etkili bir ağ kurmak için çevrimiçi kişisel markamı nasıl geliştiririm?",
+          "Telefonumu dikkat dağıtıcı bir kaynaktan, dil öğrenme, eğitim içeriği dinleme veya yan projeleri yönetme aracı haline nasıl getiririm?",
+          "Yoğun çalışma gününden sonra derin uyku ve dinlenme kalitesini artıran akşam dijital rutini nedir?",
+          "Hibrit veya uzaktan çalışma ortamında izolasyon hissi olmadan ekip arkadaşlarımla etkili iletişim ve güven nasıl kurarım?",
+          "Hızlı sosyal medya akışının yüzeysel bilgi seli çağında eleştirel düşünme ve derin yaratıcılık becerilerimi nasıl korurum?",
+          "Yapay zekanın yerine getiremediği insani beceriler (empati, liderlik) nelerdir ve rekabet gücümü artırmak için bunları nasıl geliştirebilirim?"
+        ],
+        "answers": [
+          "* Telefon ve bilgisayardaki gereksiz bildirimlerin tamamını kapatın\n* Derin odaklanma periyotlarını Pomodoro tekniğiyle planlayın (25 dakika çalışma / 5 dakika mola)\n* Dikkat dağıtıcı web siteleri ve uygulamaları engelleyen araçlar kullanın (Freedom, Cold Turkey gibi)\n* Zihni odaklanmaya alıştırmak için derin okuma veya meditasyon uygulayın\n* Çalışma ortamınızı görsel karmaşa ve gürültüden arındırılmış temiz bir fiziksel alan olarak düzenleyin"
+        ]
+      },
+      "marriage": {
+        "title": "Mutlu Evlilik",
+        "questions": [
+          "Telefonla sürekli meşgul olmanın (phubbing) çiftler arasındaki duygusal iletişimin kalitesini nasıl etkiler?",
+          "Eşler arasındaki dijital mahremiyet sınırları nelerdir ve birinin diğerinin telefonunu araması hakkı var mıdır?",
+          "Sosyal medya fenomenlerinin gösterdiği mükemmel görüntülerle evlilik hayatımızı kıyaslamaktan nasıl kaçınırız?",
+          "Müstehcen sitelere bağımlılığın samimi ilişki ve evlilik memnuniyeti üzerindeki etkisi nedir?",
+          "Evde bağları güçlendirmek için dijital kurallar nasıl koyabiliriz?",
+          "Bir metin mesajının yanlış anlaşılması büyük bir çekişmeye neden olursa nasıl davranmalıyız?",
+          "İnternette karşı cinsle kurulan sanal arkadaşlıkların evlilik ihanetine nasıl yol açtığı ve riskleri nelerdir?",
+          "Mavi ışık ve uyku öncesi telefon kullanımı çiftlerin ortak uyku döngüsünü nasıl etkiler?",
+          "İki tarafın aynı yerde oturduğu ancak iletişimin kesildiği 'dijital evlilik sessizliği' sorununu nasıl çözeriz?",
+          "Eşlerden biri özel hayatımızın detaylarını sosyal platformlarda fazla paylaşıyorsa ne yapmalıyız?",
+          "Görevleri koordine etmek ve ev işlerini hafifletmek için ortak takvim ve görev uygulamalarını nasıl kullanırız?",
+          "Uzun seyahat veya çalışma durumlarında teknoloji ilişkileri nasıl güçlendirebilir?",
+          "İletişim becerilerini ve duygusal zekayı geliştirmek için çevrimiçi eğitim içeriğinden yenilikçi yollarla nasıl yararlanırız?",
+          "Ortak bir hobiyi evlilikteki arkadaşlık ruhunu tazeleyen kaliteli zaman haline nasıl dönüştürürüz?",
+          "Ortak bir hobiyi evlilikteki arkadaşlık ruhunu tazeleyen kaliteli zaman haline nasıl dönüştürürüz?"
+        ],
+        "answers": [
+          "* Görmezden gelinen tarafın önemsiz ve ihmal edilmiş hissetmesine neden olur\n* Diyalog kalitesini düşürür ve derin, içten sohbet fırsatlarını yok eder\n* Yakınlık kurmada gerekli görsel ve fiziksel teması azaltır\n* Tam odaklanma eksikliğinden dolayı yanlış anlamaları artırır\n* Uzun vadede ilişki içinde duygusal izolasyon ve kin duvarı inşa eder"
+        ]
+      },
+      "seniors": {
+        "title": "Yaşlılar",
+        "questions": [
+          "Yaşlıları telefon ve dijital dolandırıcılık mağduriyetlerinden nasıl koruyabiliriz?",
+          "Yaşlıları yalnızlık hissini azaltmak için iletişim uygulamalarını (WhatsApp gibi) kullanmaya en basit yollarla nasıl öğretiriz?",
+          "Yaşlıların fiziksel ihtiyaçlarına uygun şekilde telefon ayarlarını (yazı boyutu, ses, parlaklık) nasıl özelleştiririz?",
+          "Gruplardan gelen tıbbi sahte haberleri ve söylentileri inanıp yaymanın riskleri nelerdir?",
+          "Yaşlıları ilaç saatlerini ve periyodik kontrolleri hatırlamada dijital teknoloji nasıl yardımcı olabilir?",
+          "Yaşlı biri siyasi haberleri veya karamsar içerikleri takip etmeye bağımlı hale gelirse nasıl davranmalıyız?",
+          "Hafıza sorunları olan yaşlıları korumada konum takip (GPS) özelliğinin önemi nedir?",
+          "Teknik tecrübesi az olan yaşlıların veri toplayan uygulamalardan gizliliğini nasıl koruyabiliriz?",
+          "Zihinsel oyunların yaşlıların hafızasını canlandırma ve yaşlanma hastalıklarını önlemeye etkisi nedir?",
+          "Yaşlıları resmi işlemler ve banka işlemlerini evden yapmaya nasıl alıştırırız ki gidip gelme zorluğu yaşamazlar?",
+          "YouTube'u ertelenmiş hobilerini (yemek yapma, el işleri) icra etmek için yaşlı için nasıl eğitim merkezi haline getiririz?",
+          "Yaşlıların sağlık durumunu uzaktan takip etmek için (nabız ölçen saatler gibi) en iyi teknik araçlar nelerdir?",
+          "Yaşlıları tarihlerini ve anılarını gelecek nesillere sesli ve görüntülü olarak nasıl belgelemeye teşvik ederiz?",
+          "Dijital platformlar yaşlıları ortak ilgi alanları grupları aracılığıyla topluma nasıl yeniden entegre edebilir?",
+          "Yaşlıda mesaj ve linkleri iletmeden önce kaynağı doğrulama becerisini nasıl geliştiririz?"
+        ],
+        "answers": [
+          "* Kimlik bilgilerini (kart numarası, transfer kodu, şifre) asla telefonda paylaşmaması konusunda uyarın.\n* Altın kuralı öğretin: Bankalar ve resmi kurumlar şifrelerinizi telefonda veya mesajla asla sormaz.\n* Telefonlarına arayan tanıma ve spam/dolandırıcılık önleyici uygulamalar yükleyin.\n* Beklenmedik bir talep üzerine ödeme yapmadan önce mutlaka bir aile üyesine danışmasını isteyin.\n* En yaygın dolandırıcılık yöntemlerini (sahte miras, ödül vaadi, fidye talebi, yakının kimliğine bürünme) basitleştirerek açıklayın."
+        ]
+      },
+      "security": {
+        "title": "Güvenlik ve Gizlilik",
+        "questions": [
+          "Dijital şantaj mağduriyeti yaşadığımı fark ettiğim ilk dakikalarda ne yapmalıyım?",
+          "Gerçek e-posta ile kimlik avı (phishing) mesajlarını verilerimi çalmak için nasıl ayırt ederim?",
+          "Ülkemde dijital suç hakkında resmi yasal şikayet süreçleri nelerdir?",
+          "Hesaplarımı iki faktörlü doğrulama (2FA) özelliğiyle nasıl korurum?",
+          "Şantajcının tehdidini yerine getirebilme ihtimali, onu (Block) engellediğimde devam eder mi?",
+          "Kafelerde ve havalimanlarındaki kamuya açık Wi-Fi ağlarının banka verilerim üzerindeki riskleri nelerdir?",
+          "Telefonda gizli casusluk veya izleme uygulamalarının varlığını nasıl tespit ederim?",
+          "WhatsApp veya Facebook hesabım ele geçirilip adıma hakaret içeren mesajlar gönderilirse ne yapmalıyım?",
+          "Telefonum kaybolur veya çalınırsa özel fotoğraflarım ve dosyalarıma erişimi nasıl engellerim?",
+          "Siber taciz ile şantaj arasındaki fark nedir ve yasa her birine nasıl sınır koyar?",
+          "Sahte ödül linkleri ve hızlı kazanç vaatleriyle kimlik hırsızlığına karşı nasıl davranmalıyım?",
+          "Telefonu satmadan önce tüm verileri silmenin güvenli yöntemi ve geri dönüşümünü nasıl engellerim?",
+          "Sohbet odaları ve oyunlarda çocuklarımı 'çevrimiçi avcılardan' (Online Grooming) nasıl korurum?",
+          "Şüpheli sitelere girerek cihazımı fidye virüslerine (Ransomware) maruz bırakma riskim var mı?",
+          "Kendimi ve teknik olarak sızma girişimlerinden koruyan kişisel güvenlik duvarımı nasıl inşa ederim?"
+        ],
+        "answers": [
+          "* En önemli kural: Teslim olmayın ve para ödemeyin. Ödeme şantajcının cesaretini artırır ve taleplerini çoğaltır.\n* Kanıtları silmeyin. Tüm sohbetleri, mesajları, fotoğrafları ve kayıtları saklayın.\n* İletişimi derhal kesin. Tehditlere yanıt vermeyin veya şantajcıyla iletişim kurmayın.\n* Duygusal tepki vermeyin. Amacı sizi korkutarak yanlış kararlar almanızdır; sakinliğinizi koruyun.\n* Derhal destek arayın. Güvendiğiniz birine (arkadaş, aile) söyleyin ve yetkili makamlarla iletişime geçin."
+        ]
+      }
+    }
+  },
+  "humanVision": {
+    "title": "İnsani Vizyonumuz",
+    "content": "Teknolojinin insanı hizmetinde olması gerektiğine, onu köleleştirmemesi gerektiğine inanıyoruz. Dijital çağda insani değerleri ve gerçek ilişkileri koruyan bilinçli bir dijital toplum inşa etmeyi hedefliyoruz."
+  },
+  "references": {
+    "title": "İnsani Referanslarımız",
+    "islam": "İslam",
+    "christianity": "Hristiyanlık",
+    "judaism": "Yahudilik",
+    "buddhism": "Budizm",
+    "hinduism": "Hinduizm",
+    "confucianism": "Konfüçyanizm",
+    "taoism": "Taoizm",
+    "shinto": "Şintoizm",
+    "jainism": "Caynizm",
+    "zoroastrianism": "Zerdüştçülük",
+    "african": "Afrika Felsefesi",
+    "secular": "İnsani Etik",
+    "modals": {
+      "islam": {
+        "title": "İslam: Teknoloji Kullanımında Dengelilik ve İtizal",
+        "content": "İslam, merhamet ve inşa dinidir; yoldan zararı gidermeyi emreder — bu yalnızca bireysel bir eylem değil, kapsamlı bir medeniyet metodolojisidir. Sosyal medya çağında 'yol' fiziksel bir güzergâhtan, insanın her gün yürüdüğü ve düşüncesini, kalbini ve ilişkilerini yok edebilecek şeylere maruz kaldığı dijital bir alana dönüşmüştür. Buradan, Şeriat'ın gayeleri ışığında 'zarar' ve 'yol' kavramlarına daha derin bir anlayış gerekliliği ortaya çıkar.\n\nBirinci: Zararı gidermek Müslümanlara mahsus değildir\nPeygamber ﷺ zararı gidermeyi yalnız Müslümanlarla sınırlamamış, bunu genel iman kollarından biri kılmıştır. Buyurmuştur: 'İman yetmiş kadar koldan oluşur... en alçak derecesi yoldan zararı kaldırmaktır' (Müslim). Bu, yoldan geçen herkesi — Müslüman olsun veya olmasın — kapsar; çünkü Şeriat'ın gayesi zarardan herkesi — ayırım yapmadan — korumaktır.\n\nİkinci: Zarar yalnızca maddi değildir, manevi daha tehlikelidir\nGiderilmesi gereken zarar yalnızca taş veya dikenle sınırlı değildir; şunları da içerir:\n• Hakaret edici sözler\n• Haram bakışlar\n• Saptırıcı davetler\n• İnsanları şaşırtan veya endişelendiren davranışlar\nİbnü'l-Kayyim şöyle der: 'En büyük zarar, kalpleri ve akılları bozandır.' Kastedilen, insanın yolculuğunu bozan her şeyin giderilmesi gereken bir zarar olduğudur.\n\nÜçüncü: Hayat, beşikten mezara kadar bir yolculuktur\nDünya hayatı geçici bir yolculuktur. Peygamber ﷺ buyurmuştur: 'Dünyada sanki yabancısın veya yolcun gibi ol' (Buhari). Her an bir imtihandır: İnsanlara yolu kolaylaştıracak mıyız yoksa tökezletici mi koyacağız? Dolayısıyla hadiste geçen 'yol' coğrafi bir yer değil, varoluşsal bir yolculuktur.\n\nDördüncü: Düşünceyi yok etmek en tehlikeli zararlardan biridir\nİnsan aklını zayıflatan veya yanlış kararlar almaya iten şeyler — değerlerde şüphe, umutsuzluk yayma veya öfkeyi körüklemek gibi — manevi ve fikri bir zarardır. Akıl, sorumluluğun merkezidir; Allah şöyle buyurur: 'Şüphesiz kulak, göz ve kalp, hepsi sorulacak şeylerdendir' (İsra 17:36). Düşünceleri bozanı yayan, yiyeceğe zehir serpmek gibidir.\n\nBeşinci: Sosyal medya: modern zararın yeni yolu\nİletişim platformları milyonların her gün yürüdüğü sanal bir yol haline gelmiştir. Yanlış kullanımı şunlara yol açmıştır:\n• Akrabalık bağlarının kopması\n• İntikam körüklenmesi\n• Bazılarını intihara itme\nBu, psikolojik, sosyal ve manevi zararın birleştiği karmaşık bir zarardır. Bu zehirli yolda yürüyen, emanete ihanet etmiş ve 'Zarar verme ve zararla karşılık verme' ilkesini ihlal etmiştir.\n\nAltıncı: Programlar tarafsız değildir; kılavuzluk değil kâr güder\nSosyal medya algoritmalarının çoğu hak ile batılı ayırmaz, kâr getiren ile getirmeyeni ayırır. Sizi psikolojinizin tercih ettiğiyle besler — ruhunuzu yok etseler bile. Bu yüzden Müslüman:\n• Kaynaklarını takip etmeli\n• İçeriğini bilinçle seçmeli\n• Kaynaşmaya değil ayırt etmeye alıştırmalıdır\n\nSonuç ve Tavsiyeler:\n• Dijital zararın haram zarar biçimlerinden biri olduğunu açıklayan İslami farkındalık söylemi benimsenmeli.\n• Değerleri değil arzuları güçlendiren kâr amacı gütmeyen eğitim programları desteklenmeli.\n• Aileler ve eğitimciler, platform mekanizmalarını anlamak ve çocukları korumak için yetkinleştirilmeli.\n• Niyetin yeterli olmadığı vurgulanmalı; içerik de faydalı olmalıdır.\n• Akılları koruma, vücutları salgın hastalıklardan koruma gibi eğitim ve sosyal çalışmanın öncelikleri arasına alınmalıdır.\n\n'Onu dirilten, tüm insanlığı diriltmiş gibi olur' (Maide 5:32)\nAkıl hayatın sırrıdır ve onu korumak, varoluşu korumanın en büyük kapılarından biridir."
+      },
+      "christianity": {
+        "title": "Hristiyanlık: Sevgi ve İnsani İlişkiler",
+        "content": "Hristiyanlık, Tanrı'yı ve komşuyu sevmeye dayanır ve iyiliğin ve barışın yolundaki her engeli kaldırmaya çağırır. Dijital medya çağında, sanal dünyanın milyonların her gün yürüdüğü bir yol haline gelmesiyle, Mesih'in müritleri olarak bu yeni alanda sorumluluğumuzun daha derin bir anlaşılması gerekmektedir.\n\nBirinci: Dijital alanda komşuya hizmet\nMesih, 'Komşunu kendin gibi sev' emrini (Markos 12:31) coğrafi sınırlarla veya iletişim araçlarıyla sınırlamamıştır; karşılaştığımız her insanı kapsar. Aziz Pavlus şöyle der: 'Birbirinizin yükünü taşıyın, böylece Mesih'in kanununu yerine getirmiş olursunuz' (Galatyalılar 6:2). Dijital alanda — söz, görüntü veya bilgiyle — zararı kaldırmak, özellikle yalnızlık ve kaygı içinde olan bir dünyada komşunun yükünü taşımak için modern bir yoldur.\n\nİkinci: Kardeşlerimize karşı yeni zarar\nİncil, sözün gücünü uyarmaktadır: 'Dilin ucunda ölüm ve hayat vardır' (Süleyman'ın Sözleri 18:21). Çağımızda bu dil, iletişim platformlarına uzanmıştır. Dijital zarar şunları içerir:\n• Kaba ve hakaret içeren dil (Efesliler 4:29)\n• Dedikodu ve iftira (2 Korintliler 12:20)\n• Fitne ve bölünmeyi körüklemek (Galatyalılar 5:19-21)\n• Ayartma ve günah çıkarmak (Matta 18:6)\nBunların tümü 'Komşunu kendin gibi sev' emrini ihlal eder ve Mesih'in tek bedenine karşı günah oluşturur.\n\nÜçüncü: Hayat, Tanrı'nın Krallığı'na doğru bir hac yolculuğudur\nHristiyanlar hayatı Tanrı'nın Krallığı'na doğru bir hac olarak görür. Dijital alan bu yolculuğun bir parçası haline gelmiştir. Müminin vicdanını yönlendiren soru şudur: Bu araçları kardeşlerime hizmet için mi kullanıyorum yoksa onların yoluna engel mi koyuyorum? (Romalılar 14:13). Çağrı, dijital dünyada da 'tuz ve ışık' olmaktır (Matta 5:13-16).\n\nDördüncü: Dijital meydan okumada zihni yenileme\nAziz Pavlus vurgular: 'Bu çağın biçimine göre şekil almayın, aksine aklınızı yenileyerek değişin' (Romalılar 12:2). Dijital çağın en büyük tehlikesi, zihnimizin dünya değerleriyle değil Tanrı'nın Sözü'yle şekillendirilmesidir. İnsani değerleri sorgulayan, şiddeti öven veya kırılganları istismar eden içerik, ruhların kurtuluşunu tehdit eden manevi bir zarardır.\n\nBeşinci: Kırılganlara karşı sorumluluk\nHristiyanlar 'bu küçüklerden' (Matta 18:6) özel sorumluluk taşır. Dijital platformlar — ya yaştan veya imandan dolayı — küçükleri ciddi tehlikelere maruz bırakır:\n• Zorbalık ve istismar\n• Yanlış bilgi ve sapkınlık\n• Bağımlılık ve izolasyon\nBunlara katkıda bulunan kişi, 'bu küçüklerden birini ayartan' gibidir (Matta 18:6).\n\nAltıncı: Algoritmalar çağındaki sorumlu özgürlük\nHristiyanlık özgürlüğe çağırır, ancak 'özgürlüğünüzü beden için fırsat olarak kullanmayın' (Galatyalılar 5:13). Arzuları ve öfkeyi besleyen algoritmalar, erdem ve özdenetim çağrımızla çelişir. Mümin:\n• 'Her şeyi sınayın, güzel olanı elde edin' (1 Tesalonikalılar 5:21)\n• 'Ruh için ekin ekin, beden için değil' (Galatyalılar 6:8)\n• Teknolojinin efendisi olmalı, kölesi değil\n\nHristiyan bakış açısıyla sonuç ve tavsiyeler:\n• Sevgi emirlerini dijital olarak uygulama: Sevgi ve adalet emirlerini sanal alanda pratik davranışa çeviren dijital pastoral teoloji geliştirme.\n• Hristiyan dijital topluluklar: Uzlaşmayı teşvik eden, umut sunan inşa edici içerik sağlayan topluluklar ve siteler oluşturma.\n• Hristiyan dijital eğitimi: Dini eğitim ve aile eğitimi programlarına teknolojinin Hristiyan kullanımı konusunu dahil etme, özellikle küçükleri korumaya odaklanma.\n• Dijital tanıklık: Müminleri dijital dünyada sevgi, saygı ve yapıcı diyalog yoluyla Mesih'in tanığı olmaya teşvik etme — çekişme ve bölünme yoluyla değil.\n• Dua ve uyanıklık: Müminleri teknoloji kullanımında bilgelik için dua etmeye ve dijital dünyanın baştan çıkarmalarına karşı manevi uyanıklıkta bulunmaya hatırlatma.\n\n'İnsanlara yaptığınız her şeyi sizin de size yapmalarını istediğiniz gibi yapın' (Matta 7:12)\nBu altın kural, dijital çağda Hristiyan ahlakının anahtarıdır. Ekranlar aracılığıyla başkalarıyla etkileşimdeyken, Tanrı'nın imgesiyle yaratılmış ruhlarla muhatap olduğumuzu ve kardeşlerimizin bekçisi olarak, en küçük dijital etkileşimlerde bile sevgi krallığını inşa etmeye davet edildiğimizi hatırlamalıyız."
+      }
+    }
+  },
+  "messagesModal": {
+    "title": "🌍 Medeniyetlerin Hikâyeleri: Dijital Merhamet İçin Küresel Bir Çığlık",
+    "content": "Mısır'ın kalbinden, ekranların kötü kullanımı nedeniyle yılda yüz binlerce boşanma kaydedilen yerden. Üretim kayıpları, dijital dolandırıcılık ve psikolojik tedavi arasında milyarlarca Mısır lirasının israf edildiği yerden. Sesimizi yükseltiyoruz — yalnızca Mısırlılar olarak değil, insanlığın yeni bir imtihana uğradığını gören insanlar olarak. Bu platformun amacı teknolojiyi suçlamak değil, insan ilişkisini ondan kurtarmaktır. Telefonları yasaklamayı değil, vicdanlı kullanmayı çağırıyoruz. Tokyo'da veya Trablus'ta, São Paulo'da veya Seul'de her çocuk, annesinin gözlerine aralarında bir ekran olmadan bakmaya hak kazanmıştır. Cape Town'da veya Kuala Lumpur'da her genç, algoritmaların illüzyonu değil kendi gerçekliği üzerinden kimliğini inşa etmeye layıktır. Sosyal medya kötülük değildir ama tarafsız da değildir; yönetenlerin niyetlerinin aynasıdır. Bugün merhametle yönetilmezse, aileleri parçalamanın, umutsuzluğu ekmenin ve bazılarını intihara itmenin en hızlı yolu haline gelebilir. Bu yüzden 'Medeniyetlerin Hikâyeleri' başlatıyor: Her hükümete, dini kuruma, kültürel veya sivil kuruluşa, insan onurunu tehdit etmek yerine koruyan bir dijital alan inşa etmeye katılma çağrısı.\n\nMısır'dan başladık — çünkü dürüstlük evden başlar. Ama mesajımız yalnızca Mısır için değil, tüm dünya içindir.\n\n✨ Bugün ne istiyoruz:\n- Ebeveynlerden: Çocuklarının ilk 'filtresi' olmaya geri dönmelerini.\n- Hükümetlerden: Çocukları dijital bağımlılıktan koruyan politikalar koymalarını.\n- Platformlardan: Kârdan çok insanı seçmelerini.\n- Manevi ve kültürel kurumlardan: Vicdanı rehber etmelerini, sessiz kalmamalarını.\n- Dünyadaki her referans — dini, felsefi veya insani — bu çığlığa kendi dili, değerleri ve vizyonuyla katılmalarını.\n\n> Mesajımızı paylaşın ve sevdiklerinizi kurtarın\n> İnsanlığı dijital bir anı haline gelmeden koruyun.\n> Ekranın çocuğunuzun çocukluğunu, evinizin huzurunu veya hayatınızdaki umudunuzu çalmasına izin vermeyin."
+  },
+  "programsModal": {
+    "title": "Sık Sorulan Sorular",
+    "instruction": "Cevabını almak istediğiniz soruyu seçin"
+  },
+  "buttons": {
+    "learnMore": "Daha Fazla Öğren",
+    "readMore": "Daha Fazla Oku",
+    "close": "Kapat",
+    "submit": "Gönder",
+    "download": "İndir",
+    "browseBook": "Kitaba Göz At"
+  },
+  "footer": {
+    "title": "Medeniyetlerin Hikâyeleri CiviStories",
+    "tagline": "Kâr amacı gütmeyen bireysel girişim — insanlığı korumak için dijital bir çığlık",
+    "copyright": "Tüm Hakları Saklıdır",
+    "year": "2025"
+  },
+  "common": {
+    "loading": "Yükleniyor...",
+    "error": "Bir hata oluştu",
+    "success": "Başarıyla tamamlandı"
+  }
+}
