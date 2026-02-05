@@ -25,12 +25,10 @@
     { "code": "cs", "name": "Čeština", "flag": "https://flagcdn.com/w80/cz.png", "dir": "ltr" },
     { "code": "ru", "name": "Русский", "flag": "https://flagcdn.com/w80/ru.png", "dir": "ltr" },
     { "code": "uk", "name": "Українська", "flag": "https://flagcdn.com/w80/ua.png", "dir": "ltr" },
-    
     { "code": "az", "name": "Azərbaycanca", "flag": "https://flagcdn.com/w80/az.png", "dir": "ltr" },
     { "code": "kk", "name": "Қазақша", "flag": "https://flagcdn.com/w80/kz.png", "dir": "ltr" },
     { "code": "ku", "name": "کوردی", "flag": "https://flagcdn.com/w80/iq.png", "dir": "rtl" },
     { "code": "uz", "name": "Oʻzbekcha", "flag": "https://flagcdn.com/w80/uz.png", "dir": "ltr" },
-    
     { "code": "zh", "name": "中文 (简体)", "flag": "https://flagcdn.com/w80/cn.png", "dir": "ltr" },
     { "code": "yue", "name": "粵語", "flag": "https://flagcdn.com/w80/hk.png", "dir": "ltr" },
     { "code": "ja", "name": "日本語", "flag": "https://flagcdn.com/w80/jp.png", "dir": "ltr" },
@@ -65,7 +63,6 @@
     { "code": "th", "name": "ไทย", "flag": "https://flagcdn.com/w80/th.png", "dir": "ltr" },
     { "code": "vi", "name": "Tiếng Việt", "flag": "https://flagcdn.com/w80/vn.png", "dir": "ltr" },
     { "code": "fa", "name": "فارسی", "flag": "https://flagcdn.com/w80/ir.png", "dir": "rtl" },
-    
     { "code": "yo", "name": "Yorùbá", "flag": "https://flagcdn.com/w80/ng.png", "dir": "ltr" },
     { "code": "ig", "name": "Igbo", "flag": "https://flagcdn.com/w80/ng.png", "dir": "ltr" },
     { "code": "am", "name": "አማርኛ", "flag": "https://flagcdn.com/w80/et.png", "dir": "ltr" },
