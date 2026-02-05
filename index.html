@@ -18,6 +18,33 @@
 
   <!-- Main Stylesheet -->
   <link rel="stylesheet" href="./assets/css/main.css">
+
+  <!-- تعديل شريط الأخبار للعربية - يتحرك من اليسار لليمين -->
+  <style>
+    .news-ticker {
+      direction: ltr !important;
+      overflow: hidden;
+      white-space: nowrap;
+      background: #333;
+      color: white;
+      padding: 10px 0;
+    }
+    
+    .ticker-track {
+      display: inline-block;
+      animation: ticker-left 25s linear infinite;
+    }
+    
+    @keyframes ticker-left {
+      0% { transform: translateX(-100%); }
+      100% { transform: translateX(100%); }
+    }
+    
+    /* عند توقف الماوس */
+    .news-ticker:hover .ticker-track {
+      animation-play-state: paused;
+    }
+  </style>
 </head>
 
 <body>
@@ -71,7 +98,7 @@
 
   <!-- News Ticker -->
   <div class="news-ticker">
-    <div class="ticker-track animate-news" id="tickerTrack">
+    <div class="ticker-track" id="tickerTrack">
       <!-- Populated by JavaScript -->
     </div>
   </div>
