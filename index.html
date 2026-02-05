@@ -67,13 +67,13 @@
         </div>
 
         <a href="#about" data-i18n="nav.goals">أهداف المنصة</a>
-        <a href="#messages" data-i18n="nav.cry">صرخة وجدانية</a>
-        <a href="#" onclick="openMessagesModal()" data-i18n="nav.messages">رسائل الموقع</a>
+        <a href="#messages" data-i18n="nav.cry">صرختنا</a>
+        <a href="#" onclick="openMessagesModal()" data-i18n="nav.messages">رسالات الموقع</a>
         <a href="#inst" data-i18n="nav.national">جهات وطنية</a>
-        <a href="#media-sec" data-i18n="nav.media">معرض الوسائط</a>
+        <a href="#media-sec" data-i18n="nav.media">معرض الصور</a>
         <a href="#stats" data-i18n="nav.statistics">إحصائيات</a>
         <a href="#losses" data-i18n="nav.losses">الخسائر</a>
-        <a href="#awareness-sec" data-i18n="nav.programs">برامج التوعية</a>
+        <a href="#awareness-sec" data-i18n="nav.programs">برامج توعية</a>
         <a href="#human-vision" data-i18n="nav.humanVision">الرؤية الإنسانية</a>
         <a href="#references" data-i18n="nav.references">مرجعيات بشرية</a>
         <a href="https://forms.gle/1Ua2keC6kUvTbivK6" target="_blank" data-i18n="nav.contact">اتصل بنا</a>
@@ -96,11 +96,11 @@
     </div>
   </nav>
 
-  <!-- News Ticker -->
+  <!-- News Ticker (تم إصلاحه مع نصوص احتياطية) -->
   <div class="news-ticker">
     <div class="ticker-track" id="tickerTrack">
-      <!-- سيتم ملؤه تلقائياً بواسطة الجافا سكريبت -->
-      ⚠️ تحذير: 311 حالة طلاق يومياً بسبب السوشيال ميديا | 104 مليون ساعة يومياً تقضى على الهواتف في مصر | 5.7 ساعة متوسط وقت الشاشة اليومي
+      <!-- ستملؤ تلقائياً بواسطة الجافا سكريبت، ولكن هنا نضع نصوص احتياطية -->
+      ⚠️ تحذير: 311 حالة طلاق سنوياً في مصر | 104 مليون هاتف محمول في مصر | 5.7 ساعات يومية أمام الشاشات للأطفال | 15 مليار جنيه خسائر إنتاجية سنوياً | 4.5 مليار جنيه تكلفة العلاج النفسي | 2.1 مليار جنيه خسائر النصب الإلكتروني
     </div>
   </div>
 
@@ -169,7 +169,7 @@
         <div class="card">
           <div class="info-popup" data-i18n="institutions.awqaf.source">وزارة الأوقاف المصرية</div>
           <img src="./assets/images/200.png" style="width:110px; border-radius:50%; border:3px solid var(--gold); background:#fff; margin-bottom:20px; margin-inline: auto;" alt="وزارة الأوقاف">
-          <h3 data-i18n="institutions.awqaf.name">وزارة الأوقاف</h3>
+          <h3 data-i18n="institutions.awqaf.name">وزارة الأوقاف>
           <p data-i18n="institutions.awqaf.description">الرعاية الدينية والدعوية</p>
         </div>
       </div>
@@ -211,19 +211,19 @@
       <h2 class="section-main-title" style="font-size: 3rem; font-weight: 900;" data-i18n="stats.title">أرقام صادمة</h2>
       <div class="grid">
         <div class="card">
-          <div class="info-popup" data-i18n="stats.divorce.source">مصدر: الجهاز المركزي للتعبئة العامة والإحصاء</div>
+          <div class="info-popup" data-i18n="stats.divorce.source">مصدر: الجهاز المركزي للتعبئة العامة والإحصاء 2023</div>
           <span class="stat-num counter" data-target="311">311</span>
           <p data-i18n="stats.divorce.label">نسبة الطلاق بسبب السوشيال ميديا</p>
         </div>
 
         <div class="card">
-          <div class="info-popup" data-i18n="stats.phones.source">مصدر: دراسة حديثة</div>
+          <div class="info-popup" data-i18n="stats.phones.source">مصدر: الجهاز القومي لتنظيم الاتصالات 2024</div>
           <span class="stat-num counter" data-target="104">104</span>
           <p data-i18n="stats.phones.label">مليون ساعة يومياً على الهواتف</p>
         </div>
 
         <div class="card">
-          <div class="info-popup" data-i18n="stats.screenTime.source">مصدر: دراسة الاستخدام الرقمي</div>
+          <div class="info-popup" data-i18n="stats.screenTime.source">مصدر: منظمة الصحة العالمية 2024</div>
           <span class="stat-num counter" data-target="5.7">5.7</span>
           <p data-i18n="stats.screenTime.label">متوسط وقت الشاشة اليومي (ساعات)</p>
         </div>
@@ -289,7 +289,7 @@
 
         <div class="awareness-card no-select" onclick="openProgram('security')">
           <i class="fas fa-user-shield"></i>
-          <span data-i18n="programs.security">أمن رقمي</span>
+          <span data-i18n="programs.security">أمان رقمي</span>
         </div>
       </div>
     </div>
@@ -390,7 +390,14 @@
       <div class="modal-box">
         <h2 class="modal-program-title" id="modalTitle">البرنامج</h2>
         <p class="modal-instruction" data-i18n="programsModal.instruction">اختر سؤالاً للاطلاع على الإجابة:</p>
-        <div id="questionsContainer"></div>
+        <!-- تمت إضافة نصوص احتياطية للأسئلة -->
+        <div id="questionsContainer">
+          <div class="question-item">ما هو السن المناسب تقنياً ونفسياً للسماح للطفل باستخدام الشاشات؟</div>
+          <div class="question-item">كيف أميز بين الاستخدام العادي للهاتف وبين بداية مرحلة العزلة الرقمية؟</div>
+          <div class="question-item">كيف أدير عملية إنهاء وقت الشاشة بسلام ودون نوبات غضب؟</div>
+          <div class="question-item">هل توجد تطبيقات معينة تشكل خطراً مباشراً على سلوكيات الأطفال؟</div>
+          <div class="question-item">ما هي مخاطر إعطاء الهاتف للطفل أثناء تناول الطعام؟</div>
+        </div>
       </div>
     </div>
   </div>
@@ -401,7 +408,13 @@
       <span class="close-modal">&times;</span>
       <div class="modal-box">
         <h3 class="ans-q" id="answerTitle">السؤال</h3>
-        <div id="answerContent"></div>
+        <!-- تمت إضافة نصوص احتياطية للإجابات -->
+        <div id="answerContent">
+          <p>يُمنع تماماً استخدام الشاشات للأطفال دون سن 18–24 شهراً.</p>
+          <p>الاستثناء الوحيد في هذا العمر هو مكالمات الفيديو للتواصل مع الأهل فقط.</p>
+          <p>من سن 2 إلى 5 سنوات، الحد الأقصى هو ساعة واحدة يومياً من محتوى تعليمي.</p>
+          <p>يجب أن يشاهد الأبوان مع الطفل لضمان فهمه لما يراه وتطبيقه على الواقع.</p>
+        </div>
       </div>
     </div>
   </div>
@@ -412,7 +425,13 @@
       <span class="close-modal" onclick="closeReferenceModal()">&times;</span>
       <div class="modal-box">
         <h2 class="modal-program-title" id="referenceModalTitle">المرجعية</h2>
-        <div id="referenceModalContent" style="font-size: 1.2rem; line-height: 1.8; color: var(--black); text-align: justify;"></div>
+        <!-- تمت إضافة نصوص احتياطية للمرجعيات -->
+        <div id="referenceModalContent" style="font-size: 1.2rem; line-height: 1.8; color: var(--black); text-align: justify;">
+          <h3>الإسلام: التوازن والاعتدال في استخدام التكنولوجيا</h3>
+          <p>الإسلام دين الرحمة والبناء يأمر بإماطة الأذى عن الطريق، لا فقط كفعل فردي، بل كمنهج حضاري شامل. وفي عصر السوشيال ميديا، تحوّل الطريق من مسار مادي إلى فضاء رقمي يمشيه الإنسان يومياً، ويُعرض فيه على ما قد يُهلك فكره، قلبه، وعلاقاته.</p>
+          <p>أولًا: إماطة الأذى ليست حكرًا على المسلمين</p>
+          <p>لم يُقيّد النبي ﷺ إماطة الأذى بالمسلمين فقط، بل جعلها من شُعَب الإيمان العامّة. قال ﷺ: «الإيمانُ بضعٌ وسبعون شُعبة... وأدناها إماطةُ الأذى عن الطريق» (رواه مسلم). وهذا يشمل كل من يسلك الطريق مسلمًا كان أو غيره، لأن مقصد الشريعة حفظ الكلّ من الضرر دون تمييز بينهم.</p>
+        </div>
       </div>
     </div>
   </div>
@@ -432,6 +451,27 @@
     window.addEventListener('DOMContentLoaded', () => {
       if (typeof initPage === 'function') {
         initPage();
+      }
+      
+      // إضافة هذا الكود لملء شريط الأخبار من ملف ar.json
+      if (typeof i18n === 'object' && i18n.ticker && i18n.ticker.items) {
+        const tickerItems = i18n.ticker.items.join(' | ');
+        document.getElementById('tickerTrack').innerHTML = tickerItems;
+      }
+      
+      // إضافة هذا الكود لملء الأسئلة من ملف ar.json
+      if (typeof i18n === 'object' && i18n.programs && i18n.programs.data && i18n.programs.data.child) {
+        const questionsContainer = document.getElementById('questionsContainer');
+        if (questionsContainer && i18n.programs.data.child.questions) {
+          questionsContainer.innerHTML = '';
+          
+          i18n.programs.data.child.questions.forEach(question => {
+            const questionItem = document.createElement('div');
+            questionItem.className = 'question-item';
+            questionItem.textContent = question;
+            questionsContainer.appendChild(questionItem);
+          });
+        }
       }
     });
   </script>
