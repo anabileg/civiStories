@@ -28,6 +28,7 @@
       background: #333;
       color: white;
       padding: 10px 0;
+      font-size: 1.1rem;
     }
     
     .ticker-track {
@@ -43,6 +44,28 @@
     /* عند توقف الماوس */
     .news-ticker:hover .ticker-track {
       animation-play-state: paused;
+    }
+    
+    /* إضافة أزرار التحكم في شريط الأخبار */
+    .ticker-controls {
+      display: flex;
+      justify-content: center;
+      margin-top: 5px;
+      gap: 10px;
+    }
+    
+    .ticker-btn {
+      background: #444;
+      border: 1px solid #666;
+      color: #fff;
+      padding: 3px 8px;
+      border-radius: 4px;
+      cursor: pointer;
+      font-size: 0.9rem;
+    }
+    
+    .ticker-btn:hover {
+      background: #555;
     }
   </style>
 </head>
@@ -68,7 +91,7 @@
 
         <a href="#about" data-i18n="nav.goals">أهداف المنصة</a>
         <a href="#messages" data-i18n="nav.cry">صرختنا</a>
-        <a href="#" onclick="openMessagesModal()" data-i18n="nav.messages">رسالات الموقع</a>
+        <a href="#" onclick="openMessagesModal()" data-i18n="nav.messages">رسائل الموقع</a>
         <a href="#inst" data-i18n="nav.national">جهات وطنية</a>
         <a href="#media-sec" data-i18n="nav.media">معرض الصور</a>
         <a href="#stats" data-i18n="nav.statistics">إحصائيات</a>
@@ -101,6 +124,10 @@
     <div class="ticker-track" id="tickerTrack">
       <!-- ستملؤ تلقائياً بواسطة الجافا سكريبت، ولكن هنا نضع نصوص احتياطية -->
       ⚠️ تحذير: 311 حالة طلاق سنوياً في مصر | 104 مليون هاتف محمول في مصر | 5.7 ساعات يومية أمام الشاشات للأطفال | 15 مليار جنيه خسائر إنتاجية سنوياً | 4.5 مليار جنيه تكلفة العلاج النفسي | 2.1 مليار جنيه خسائر النصب الإلكتروني
+    </div>
+    <div class="ticker-controls">
+      <button class="ticker-btn" onclick="pauseTicker()">إيقاف</button>
+      <button class="ticker-btn" onclick="resumeTicker()">استئناف</button>
     </div>
   </div>
 
@@ -169,7 +196,7 @@
         <div class="card">
           <div class="info-popup" data-i18n="institutions.awqaf.source">وزارة الأوقاف المصرية</div>
           <img src="./assets/images/200.png" style="width:110px; border-radius:50%; border:3px solid var(--gold); background:#fff; margin-bottom:20px; margin-inline: auto;" alt="وزارة الأوقاف">
-          <h3 data-i18n="institutions.awqaf.name">وزارة الأوقاف>
+          <h3 data-i18n="institutions.awqaf.name">وزارة الأوقاف</h3>
           <p data-i18n="institutions.awqaf.description">الرعاية الدينية والدعوية</p>
         </div>
       </div>
@@ -447,30 +474,66 @@
     // Set current year
     document.getElementById('current-year').textContent = new Date().getFullYear();
 
-    // Initialize page when loaded
+    // تحميل شريط الأخبار من ar.json
+    function loadTicker() {
+      try {
+        // إذا كان i18n مُحمّلاً وتم تحميل الترجمة
+        if (typeof i18n === 'object' && i18n.ticker && i18n.ticker.items) {
+          const tickerItems = i18n.ticker.items.join(' | ');
+          document.getElementById('tickerTrack').innerHTML = tickerItems;
+          
+          // تحميل شريط الأخبار من اليسار لليمين
+          const tickerTrack = document.querySelector('.ticker-track');
+          tickerTrack.style.animation = 'ticker-left 25s linear infinite';
+        } else {
+          // إذا فشل تحميل الترجمة، اعرض النصوص الافتراضية
+          document.getElementById('tickerTrack').innerHTML = 
+            '⚠️ تحذير: 311 حالة طلاق سنوياً في مصر | 104 مليون هاتف محمول في مصر | 5.7 ساعات يومية أمام الشاشات للأطفال | 15 مليار جنيه خسائر إنتاجية سنوياً | 4.5 مليار جنيه تكلفة العلاج النفسي | 2.1 مليار جنيه خسائر النصب الإلكتروني';
+        }
+      } catch (error) {
+        console.error('Error loading ticker:', error);
+        document.getElementById('tickerTrack').innerHTML = 
+          '⚠️ خطأ في تحميل شريط الأخبار. الرجاء التحقق من اتصالك بالإنترنت.';
+      }
+    }
+
+    // إيقاف شريط الأخبار
+    function pauseTicker() {
+      const tickerTrack = document.querySelector('.ticker-track');
+      tickerTrack.style.animationPlayState = 'paused';
+    }
+
+    // استئناف شريط الأخبار
+    function resumeTicker() {
+      const tickerTrack = document.querySelector('.ticker-track');
+      tickerTrack.style.animationPlayState = 'running';
+    }
+
+    // تحميل العناصر عند تحميل الصفحة
     window.addEventListener('DOMContentLoaded', () => {
+      // تحميل شريط الأخبار
+      loadTicker();
+      
+      // تأكد من وجود ملفات الجافا سكريبت
       if (typeof initPage === 'function') {
         initPage();
       }
       
-      // إضافة هذا الكود لملء شريط الأخبار من ملف ar.json
-      if (typeof i18n === 'object' && i18n.ticker && i18n.ticker.items) {
-        const tickerItems = i18n.ticker.items.join(' | ');
-        document.getElementById('tickerTrack').innerHTML = tickerItems;
-      }
-      
-      // إضافة هذا الكود لملء الأسئلة من ملف ar.json
-      if (typeof i18n === 'object' && i18n.programs && i18n.programs.data && i18n.programs.data.child) {
-        const questionsContainer = document.getElementById('questionsContainer');
-        if (questionsContainer && i18n.programs.data.child.questions) {
-          questionsContainer.innerHTML = '';
-          
-          i18n.programs.data.child.questions.forEach(question => {
-            const questionItem = document.createElement('div');
-            questionItem.className = 'question-item';
-            questionItem.textContent = question;
-            questionsContainer.appendChild(questionItem);
-          });
+      // تأكد من وجود i18n
+      if (typeof i18n === 'object') {
+        // تحميل الأسئلة من ar.json
+        if (i18n.programs && i18n.programs.data && i18n.programs.data.child) {
+          const questionsContainer = document.getElementById('questionsContainer');
+          if (questionsContainer && i18n.programs.data.child.questions) {
+            questionsContainer.innerHTML = '';
+            
+            i18n.programs.data.child.questions.forEach(question => {
+              const questionItem = document.createElement('div');
+              questionItem.className = 'question-item';
+              questionItem.textContent = question.trim();
+              questionsContainer.appendChild(questionItem);
+            });
+          }
         }
       }
     });
